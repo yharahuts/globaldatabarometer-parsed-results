@@ -1,0 +1,2214 @@
+[
+    {
+        "varname": "G.GOVERNANCE.DPL.a.EXISTS",
+        "subquestion_id": "19"
+    },
+    {
+        "varname": "G.GOVERNANCE.DPL.e.e1.CONSENT",
+        "subquestion_id": "257"
+    },
+    {
+        "varname": "G.GOVERNANCE.DPL.e.e1.ACCESS_CORRECTION",
+        "subquestion_id": "216"
+    },
+    {
+        "varname": "G.GOVERNANCE.DPL.e.e1.DATA_HOLDER_RESPONSIBILITY",
+        "subquestion_id": "215"
+    },
+    {
+        "varname": "G.GOVERNANCE.DPL.e.e1.REDRESS",
+        "subquestion_id": "214"
+    },
+    {
+        "varname": "G.GOVERNANCE.DPL.e.e1.BREACH",
+        "subquestion_id": "213"
+    },
+    {
+        "varname": "G.GOVERNANCE.DPL.e.e2.LOCATION",
+        "subquestion_id": "212"
+    },
+    {
+        "varname": "G.GOVERNANCE.DPL.e.e2.AI",
+        "subquestion_id": "211"
+    },
+    {
+        "varname": "G.GOVERNANCE.DPL.e.eb.COVIDEXCEPTIONS",
+        "subquestion_id": "209"
+    },
+    {
+        "varname": "G.GOVERNANCE.DPL.c.SECTOR_EXTENT",
+        "subquestion_id": "202"
+    },
+    {
+        "varname": "G.GOVERNANCE.DPL.c.GEOGRAPHIC_SCOPE",
+        "subquestion_id": "208"
+    },
+    {
+        "varname": "G.GOVERNANCE.ODPOLICY.a.EXISTS",
+        "subquestion_id": "19"
+    },
+    {
+        "varname": "G.GOVERNANCE.ODPOLICY.e.e1.OPENDATA-DEF",
+        "subquestion_id": "207"
+    },
+    {
+        "varname": "G.GOVERNANCE.ODPOLICY.e.e1.OPENLICENCES",
+        "subquestion_id": "206"
+    },
+    {
+        "varname": "G.GOVERNANCE.ODPOLICY.e.e1.MACHINE_READABLE",
+        "subquestion_id": "205"
+    },
+    {
+        "varname": "G.GOVERNANCE.ODPOLICY.e.e1.STANDARDS",
+        "subquestion_id": "204"
+    },
+    {
+        "varname": "G.GOVERNANCE.ODPOLICY.e.e2.CAPACITY",
+        "subquestion_id": "203"
+    },
+    {
+        "varname": "G.GOVERNANCE.ODPOLICY.c.EXTENT",
+        "subquestion_id": "217"
+    },
+    {
+        "varname": "G.GOVERNANCE.DATASHARING.a.EXISTS",
+        "subquestion_id": "19"
+    },
+    {
+        "varname": "G.GOVERNANCE.DATASHARING.e.e1.GOV_INTERNAL",
+        "subquestion_id": "218"
+    },
+    {
+        "varname": "G.GOVERNANCE.DATASHARING.e.e1.GOV_OTHERS",
+        "subquestion_id": "219"
+    },
+    {
+        "varname": "G.GOVERNANCE.DATASHARING.e.e1.OTHTOGOV",
+        "subquestion_id": "220"
+    },
+    {
+        "varname": "G.GOVERNANCE.DATASHARING.e.e1.PRIVATESECTOR",
+        "subquestion_id": "221"
+    },
+    {
+        "varname": "G.GOVERNANCE.DATASHARING.e.e2.AI",
+        "subquestion_id": "222"
+    },
+    {
+        "varname": "G.GOVERNANCE.DATASHARING.c.DSF",
+        "subquestion_id": "223"
+    },
+    {
+        "varname": "G.GOVERNANCE.DATASHARING.c.EXTENT",
+        "subquestion_id": "18"
+    },
+    {
+        "varname": "G.GOVERNANCE.DATAMANAGE.a.EXISTS",
+        "subquestion_id": "19"
+    },
+    {
+        "varname": "G.GOVERNANCE.DATAMANAGE.e.e1.METADATA",
+        "subquestion_id": "224"
+    },
+    {
+        "varname": "G.GOVERNANCE.DATAMANAGE.e.e1.PROCESS",
+        "subquestion_id": "225"
+    },
+    {
+        "varname": "G.GOVERNANCE.DATAMANAGE.e.e1.TECHSTANDARDS",
+        "subquestion_id": "226"
+    },
+    {
+        "varname": "G.GOVERNANCE.DATAMANAGE.e.e1.DOCUMENTATION",
+        "subquestion_id": "227"
+    },
+    {
+        "varname": "G.GOVERNANCE.DATAMANAGE.e.e1.FEEDBACK",
+        "subquestion_id": "228"
+    },
+    {
+        "varname": "G.GOVERNANCE.DATAMANAGE.c.EXTENT",
+        "subquestion_id": "229"
+    },
+    {
+        "varname": "G.GOVERNANCE.LANG.a.EXISTS",
+        "subquestion_id": "19"
+    },
+    {
+        "varname": "G.GOVERNANCE.LANG.a.FRAMEWORK",
+        "subquestion_id": "24"
+    },
+    {
+        "varname": "G.GOVERNANCE.LANG.e.e1.AGENCY",
+        "subquestion_id": "13"
+    },
+    {
+        "varname": "G.GOVERNANCE.LANG.e.e1.VERIFICATION",
+        "subquestion_id": "12"
+    },
+    {
+        "varname": "G.GOVERNANCE.LANG.c.EXTENT",
+        "subquestion_id": "18"
+    },
+    {
+        "varname": "G.GOVERNANCE.ACCESSIBILITY.a.EXISTS",
+        "subquestion_id": "19"
+    },
+    {
+        "varname": "G.GOVERNANCE.ACCESSIBILITY.a.NATURE",
+        "subquestion_id": "24"
+    },
+    {
+        "varname": "G.GOVERNANCE.ACCESSIBILITY.e.e1.AGENCY",
+        "subquestion_id": "13"
+    },
+    {
+        "varname": "G.GOVERNANCE.ACCESSIBILITY.e.e1.VERIFICATION",
+        "subquestion_id": "12"
+    },
+    {
+        "varname": "G.GOVERNANCE.ACCESSIBILITY.c.EXTENT",
+        "subquestion_id": "18"
+    },
+    {
+        "varname": "C.CAPABILITIES.TRAIN.a.TRAINING-EXIST",
+        "subquestion_id": "230"
+    },
+    {
+        "varname": "C.CAPABILITIES.TRAIN.e.e1.GOVTRAINING",
+        "subquestion_id": "231"
+    },
+    {
+        "varname": "C.CAPABILITIES.TRAIN.e.e1.GATHERING",
+        "subquestion_id": "232"
+    },
+    {
+        "varname": "C.CAPABILITIES.TRAIN.e.e1.ANALYSIS",
+        "subquestion_id": "233"
+    },
+    {
+        "varname": "C.CAPABILITIES.TRAIN.e.e1.TECH",
+        "subquestion_id": "210"
+    },
+    {
+        "varname": "C.CAPABILITIES.TRAIN.e.e2.NONTECH",
+        "subquestion_id": "200"
+    },
+    {
+        "varname": "C.CAPABILITIES.TRAIN.e.e2.TECHSTAFF",
+        "subquestion_id": "175"
+    },
+    {
+        "varname": "C.CAPABILITIES.TRAIN.e.e3.TEAM",
+        "subquestion_id": "199"
+    },
+    {
+        "varname": "C.CAPABILITIES.TRAIN.e.e3.CERTIFICATION",
+        "subquestion_id": "181"
+    },
+    {
+        "varname": "C.CAPABILITIES.TRAIN.c.EXTENT",
+        "subquestion_id": "180"
+    },
+    {
+        "varname": "C.CAPABILITIES.TRAIN.c.EXTENT-J",
+        "subquestion_id": "179"
+    },
+    {
+        "varname": "C.CAPABILITIES.ODINIT.a.EXISTS",
+        "subquestion_id": "178"
+    },
+    {
+        "varname": "C.CAPABILITIES.ODINIT.e.e1.TEAM",
+        "subquestion_id": "177"
+    },
+    {
+        "varname": "C.CAPABILITIES.ODINIT.e.e1.BUDGET",
+        "subquestion_id": "176"
+    },
+    {
+        "varname": "C.CAPABILITIES.ODINIT.e.e1.PORTAL",
+        "subquestion_id": "174"
+    },
+    {
+        "varname": "C.CAPABILITIES.ODINIT.e.e1.GUIDANCE",
+        "subquestion_id": "167"
+    },
+    {
+        "varname": "C.CAPABILITIES.ODINIT.e.e1.LEADERSHIP",
+        "subquestion_id": "173"
+    },
+    {
+        "varname": "C.CAPABILITIES.ODINIT.c.EXTENT",
+        "subquestion_id": "172"
+    },
+    {
+        "varname": "C.CAPABILITIES.GOVSUPPORT.a.EXISTS",
+        "subquestion_id": "171"
+    },
+    {
+        "varname": "C.CAPABILITIES.GOVSUPPORT.e.e1.REUSE",
+        "subquestion_id": "170"
+    },
+    {
+        "varname": "C.CAPABILITIES.GOVSUPPORT.e.e1.BIGDATA",
+        "subquestion_id": "169"
+    },
+    {
+        "varname": "C.CAPABILITIES.GOVSUPPORT.e.e1.PRIVATE",
+        "subquestion_id": "168"
+    },
+    {
+        "varname": "C.CAPABILITIES.GOVSUPPORT.e.e1.CROWDSOURCED",
+        "subquestion_id": "182"
+    },
+    {
+        "varname": "C.CAPABILITIES.GOVSUPPORT.e.e1.SUPPORT",
+        "subquestion_id": "183"
+    },
+    {
+        "varname": "C.CAPABILITIES.GOVSUPPORT.e.e2.CSO",
+        "subquestion_id": "184"
+    },
+    {
+        "varname": "C.CAPABILITIES.GOVSUPPORT.e.e2.MEDIA",
+        "subquestion_id": "185"
+    },
+    {
+        "varname": "C.CAPABILITIES.GOVSUPPORT.e.e2.ACADEMIA",
+        "subquestion_id": "186"
+    },
+    {
+        "varname": "C.CAPABILITIES.GOVSUPPORT.e.e2.PRIVATE",
+        "subquestion_id": "187"
+    },
+    {
+        "varname": "C.CAPABILITIES.GOVSUPPORT.e.e3.CHALLENGES",
+        "subquestion_id": "188"
+    },
+    {
+        "varname": "C.CAPABILITIES.GOVSUPPORT.e.e3.HACKATHONS",
+        "subquestion_id": "189"
+    },
+    {
+        "varname": "C.CAPABILITIES.GOVSUPPORT.e.e3.COMMUNITY",
+        "subquestion_id": "190"
+    },
+    {
+        "varname": "C.CAPABILITIES.GOVSUPPORT.e.e3.INFOSESSIONS",
+        "subquestion_id": "191"
+    },
+    {
+        "varname": "C.CAPABILITIES.GOVSUPPORT.e.e3.FUNDING",
+        "subquestion_id": "192"
+    },
+    {
+        "varname": "C.CAPABILITIES.GOVSUPPORT.c.EXTENT",
+        "subquestion_id": "193"
+    },
+    {
+        "varname": "C.CAPABILITIES.SUBNAT.a.EXIST",
+        "subquestion_id": "194"
+    },
+    {
+        "varname": "C.CAPABILITIES.SUBNAT.e.e1.ODINIT",
+        "subquestion_id": "195"
+    },
+    {
+        "varname": "C.CAPABILITIES.SUBNAT.e.e1.ODPOLICY",
+        "subquestion_id": "196"
+    },
+    {
+        "varname": "C.CAPABILITIES.SUBNAT.e.e1.RULES",
+        "subquestion_id": "197"
+    },
+    {
+        "varname": "C.CAPABILITIES.SUBNAT.e.e1.DATAMANAGEMENT",
+        "subquestion_id": "198"
+    },
+    {
+        "varname": "C.CAPABILITIES.SUBNAT.e.e1.TRAINING",
+        "subquestion_id": "234"
+    },
+    {
+        "varname": "C.CAPABILITIES.SUBNAT.e.e1.LOCALGOV",
+        "subquestion_id": "235"
+    },
+    {
+        "varname": "C.CAPABILITIES.SUBNAT.c.EXTENT",
+        "subquestion_id": "236"
+    },
+    {
+        "varname": "G.COMPANY.BOT.a.EXIST",
+        "subquestion_id": "15"
+    },
+    {
+        "varname": "G.COMPANY.BOT.a.DATARULES",
+        "subquestion_id": "14"
+    },
+    {
+        "varname": "G.COMPANY.BOT.e.e1.DEFN-OWN",
+        "subquestion_id": "245"
+    },
+    {
+        "varname": "G.COMPANY.BOT.e.e1.DEFN-CONTROL",
+        "subquestion_id": "273"
+    },
+    {
+        "varname": "G.COMPANY.BOT.e.e1.EXCEPTIONS",
+        "subquestion_id": "274"
+    },
+    {
+        "varname": "G.COMPANY.BOT.e.e2.VERIFICATION",
+        "subquestion_id": "12"
+    },
+    {
+        "varname": "G.COMPANY.BOT.e.e2.AGENCY",
+        "subquestion_id": "13"
+    },
+    {
+        "varname": "G.COMPANY.BOT.e.e3.REGISTER",
+        "subquestion_id": "275"
+    },
+    {
+        "varname": "G.COMPANY.BOT.e.e3.TIMELY",
+        "subquestion_id": "17"
+    },
+    {
+        "varname": "G.COMPANY.BOT.e.e3.STRUCTURED",
+        "subquestion_id": "16"
+    },
+    {
+        "varname": "G.COMPANY.BOT.c.EXTENT",
+        "subquestion_id": "276"
+    },
+    {
+        "varname": "A.COMPANY.BOT.a.ONLINE",
+        "subquestion_id": "1"
+    },
+    {
+        "varname": "A.COMPANY.BOT.e.e1.ORGID",
+        "subquestion_id": "28"
+    },
+    {
+        "varname": "A.COMPANY.BOT.e.e1.OWNERID",
+        "subquestion_id": "277"
+    },
+    {
+        "varname": "A.COMPANY.BOT.e.e1.INTERESTS",
+        "subquestion_id": "278"
+    },
+    {
+        "varname": "A.COMPANY.BOT.e.e1.GENDER",
+        "subquestion_id": "23"
+    },
+    {
+        "varname": "A.COMPANY.BOT.e.e1.STANDARDS",
+        "subquestion_id": "22"
+    },
+    {
+        "varname": "A.COMPANY.BOT.e.e3.FREE",
+        "subquestion_id": "7"
+    },
+    {
+        "varname": "A.COMPANY.BOT.e.e3.LICENSE",
+        "subquestion_id": "6"
+    },
+    {
+        "varname": "A.COMPANY.BOT.e.e3.LANG",
+        "subquestion_id": "5"
+    },
+    {
+        "varname": "A.COMPANY.BOT.e.e3.TOOLS",
+        "subquestion_id": "0"
+    },
+    {
+        "varname": "A.COMPANY.BOT.e.e3.TIMELY",
+        "subquestion_id": "9"
+    },
+    {
+        "varname": "A.COMPANY.BOT.e.e3.HISTORICAL",
+        "subquestion_id": "4"
+    },
+    {
+        "varname": "A.COMPANY.BOT.e.e3.MACHINE_READABLE",
+        "subquestion_id": "3"
+    },
+    {
+        "varname": "A.COMPANY.BOT.e.e3.BULK",
+        "subquestion_id": "2"
+    },
+    {
+        "varname": "A.COMPANY.BOT.e.eb.MISSINGDATA",
+        "subquestion_id": "8"
+    },
+    {
+        "varname": "A.COMPANY.BOT.e.eb.COVIDAFFECTED",
+        "subquestion_id": "11"
+    },
+    {
+        "varname": "A.COMPANY.BOT.c.EXTENT",
+        "subquestion_id": "10"
+    },
+    {
+        "varname": "A.COMPANY.BOT.c.SECTOR_EXTENT",
+        "subquestion_id": "279"
+    },
+    {
+        "varname": "A.COMPANY.REG.a.ONLINE",
+        "subquestion_id": "1"
+    },
+    {
+        "varname": "A.COMPANY.REG.e.e1.ORGID",
+        "subquestion_id": "28"
+    },
+    {
+        "varname": "A.COMPANY.REG.e.e1.BASIC",
+        "subquestion_id": "280"
+    },
+    {
+        "varname": "A.COMPANY.REG.e.e1.DIRECTORS",
+        "subquestion_id": "281"
+    },
+    {
+        "varname": "A.COMPANY.REG.e.e1.ACCOUNTS",
+        "subquestion_id": "282"
+    },
+    {
+        "varname": "A.COMPANY.REG.e.e1.GENDER",
+        "subquestion_id": "23"
+    },
+    {
+        "varname": "A.COMPANY.REG.e.e3.FREE",
+        "subquestion_id": "7"
+    },
+    {
+        "varname": "A.COMPANY.REG.e.e3.LICENSE",
+        "subquestion_id": "6"
+    },
+    {
+        "varname": "A.COMPANY.REG.e.e3.LANG",
+        "subquestion_id": "5"
+    },
+    {
+        "varname": "A.COMPANY.REG.e.e3.TOOLS",
+        "subquestion_id": "0"
+    },
+    {
+        "varname": "A.COMPANY.REG.e.e3.TIMELY",
+        "subquestion_id": "9"
+    },
+    {
+        "varname": "A.COMPANY.REG.e.e3.HISTORICAL",
+        "subquestion_id": "4"
+    },
+    {
+        "varname": "A.COMPANY.REG.e.e3.MACHINE_READABLE",
+        "subquestion_id": "3"
+    },
+    {
+        "varname": "A.COMPANY.REG.e.e3.BULK",
+        "subquestion_id": "2"
+    },
+    {
+        "varname": "A.COMPANY.REG.e.eb.MISSINGDATA",
+        "subquestion_id": "8"
+    },
+    {
+        "varname": "A.COMPANY.REG.e.eb.COVIDAFFECTED",
+        "subquestion_id": "11"
+    },
+    {
+        "varname": "A.COMPANY.REG.c.EXTENT",
+        "subquestion_id": "10"
+    },
+    {
+        "varname": "U.COMPANY.DUEDIL.a.PRODUCTS",
+        "subquestion_id": "283"
+    },
+    {
+        "varname": "U.COMPANY.DUEDIL.e.e1.GOV",
+        "subquestion_id": "284"
+    },
+    {
+        "varname": "U.COMPANY.DUEDIL.e.e1.CSO",
+        "subquestion_id": "285"
+    },
+    {
+        "varname": "U.COMPANY.DUEDIL.e.e1.PRIVATESECTOR",
+        "subquestion_id": "286"
+    },
+    {
+        "varname": "U.COMPANY.DUEDIL.e.e1.MEDIA",
+        "subquestion_id": "272"
+    },
+    {
+        "varname": "U.COMPANY.DUEDIL.e.e2.BO",
+        "subquestion_id": "287"
+    },
+    {
+        "varname": "U.COMPANY.DUEDIL.e.e2.AI",
+        "subquestion_id": "20"
+    },
+    {
+        "varname": "U.COMPANY.DUEDIL.c.EXTENT",
+        "subquestion_id": "21"
+    },
+    {
+        "varname": "A.LAND.TENURE.a.ONLINE",
+        "subquestion_id": "1"
+    },
+    {
+        "varname": "A.LAND.TENURE.e.e1.INDIGENOUS",
+        "subquestion_id": "289"
+    },
+    {
+        "varname": "A.LAND.TENURE.e.e1.NATURALPERSONS",
+        "subquestion_id": "290"
+    },
+    {
+        "varname": "A.LAND.TENURE.e.e1.LEGALPERSONS",
+        "subquestion_id": "291"
+    },
+    {
+        "varname": "A.LAND.TENURE.e.e1.STATE",
+        "subquestion_id": "292"
+    },
+    {
+        "varname": "A.LAND.TENURE.e.e1.COMMUNAL",
+        "subquestion_id": "293"
+    },
+    {
+        "varname": "A.LAND.TENURE.e.e1.OPENACCESS",
+        "subquestion_id": "294"
+    },
+    {
+        "varname": "A.LAND.TENURE.e.e1.TENURETYPE",
+        "subquestion_id": "295"
+    },
+    {
+        "varname": "A.LAND.TENURE.e.e1.CONCESSIONS",
+        "subquestion_id": "296"
+    },
+    {
+        "varname": "A.LAND.TENURE.e.e2.GEO",
+        "subquestion_id": "297"
+    },
+    {
+        "varname": "A.LAND.TENURE.e.e2.TRANSACTIONS",
+        "subquestion_id": "298"
+    },
+    {
+        "varname": "A.LAND.TENURE.e.e2.LANDRIGHTS",
+        "subquestion_id": "299"
+    },
+    {
+        "varname": "A.LAND.TENURE.e.e2.GENDER",
+        "subquestion_id": "23"
+    },
+    {
+        "varname": "A.LAND.TENURE.e.e3.FREE",
+        "subquestion_id": "7"
+    },
+    {
+        "varname": "A.LAND.TENURE.e.e3.LICENSE",
+        "subquestion_id": "6"
+    },
+    {
+        "varname": "A.LAND.TENURE.e.e3.LANG",
+        "subquestion_id": "5"
+    },
+    {
+        "varname": "A.LAND.TENURE.e.e3.TOOLS",
+        "subquestion_id": "0"
+    },
+    {
+        "varname": "A.LAND.TENURE.e.e3.TIMELY",
+        "subquestion_id": "9"
+    },
+    {
+        "varname": "A.LAND.TENURE.e.e3.HISTORICAL",
+        "subquestion_id": "4"
+    },
+    {
+        "varname": "A.LAND.TENURE.e.e3.MACHINE_READABLE",
+        "subquestion_id": "3"
+    },
+    {
+        "varname": "A.LAND.TENURE.e.e3.BULK",
+        "subquestion_id": "2"
+    },
+    {
+        "varname": "A.LAND.TENURE.e.eb.MISSINGDATA",
+        "subquestion_id": "8"
+    },
+    {
+        "varname": "A.LAND.TENURE.e.eb.COVIDAFFECTED",
+        "subquestion_id": "11"
+    },
+    {
+        "varname": "A.LAND.TENURE.c.EXTENT",
+        "subquestion_id": "300"
+    },
+    {
+        "varname": "A.LAND.ELU.a.ONLINE",
+        "subquestion_id": "1"
+    },
+    {
+        "varname": "A.LAND.ELU.e.e1.DICTIONARY",
+        "subquestion_id": "301"
+    },
+    {
+        "varname": "A.LAND.ELU.e.e1.FOREST",
+        "subquestion_id": "302"
+    },
+    {
+        "varname": "A.LAND.ELU.e.e1.PROTECTEDAREAS",
+        "subquestion_id": "288"
+    },
+    {
+        "varname": "A.LAND.ELU.e.e1.GEO",
+        "subquestion_id": "271"
+    },
+    {
+        "varname": "A.LAND.ELU.e.e1.SOURCES",
+        "subquestion_id": "270"
+    },
+    {
+        "varname": "A.LAND.ELU.e.e3.FREE",
+        "subquestion_id": "7"
+    },
+    {
+        "varname": "A.LAND.ELU.e.e3.LICENSE",
+        "subquestion_id": "6"
+    },
+    {
+        "varname": "A.LAND.ELU.e.e3.LANG",
+        "subquestion_id": "5"
+    },
+    {
+        "varname": "A.LAND.ELU.e.e3.TOOLS",
+        "subquestion_id": "0"
+    },
+    {
+        "varname": "A.LAND.ELU.e.e3.TIMELY",
+        "subquestion_id": "9"
+    },
+    {
+        "varname": "A.LAND.ELU.e.e3.HISTORICAL",
+        "subquestion_id": "4"
+    },
+    {
+        "varname": "A.LAND.ELU.e.e3.MACHINE_READABLE",
+        "subquestion_id": "3"
+    },
+    {
+        "varname": "A.LAND.ELU.e.e3.BULK",
+        "subquestion_id": "2"
+    },
+    {
+        "varname": "A.LAND.ELU.e.eb.MISSINGDATA",
+        "subquestion_id": "8"
+    },
+    {
+        "varname": "A.LAND.ELU.e.eb.COVIDAFFECTED",
+        "subquestion_id": "11"
+    },
+    {
+        "varname": "A.LAND.ELU.c.EXTENT",
+        "subquestion_id": "10"
+    },
+    {
+        "varname": "U.LAND.GENDERINCLUSION.a.EQUITABLE",
+        "subquestion_id": "269"
+    },
+    {
+        "varname": "U.LAND.GENDERINCLUSION.e.e1.CSO",
+        "subquestion_id": "251"
+    },
+    {
+        "varname": "U.LAND.GENDERINCLUSION.e.e1.MEDIA",
+        "subquestion_id": "250"
+    },
+    {
+        "varname": "U.LAND.GENDERINCLUSION.e.e1.ACADEMIA",
+        "subquestion_id": "249"
+    },
+    {
+        "varname": "U.LAND.GENDERINCLUSION.e.e1.PRIVATESECTOR",
+        "subquestion_id": "248"
+    },
+    {
+        "varname": "U.LAND.GENDERINCLUSION.e.e2.AI",
+        "subquestion_id": "20"
+    },
+    {
+        "varname": "U.LAND.GENDERINCLUSION.c.EXTENT",
+        "subquestion_id": "247"
+    },
+    {
+        "varname": "G.PI.POLFIN.a.EXIST",
+        "subquestion_id": "15"
+    },
+    {
+        "varname": "G.PI.POLFIN.a.DATARULES",
+        "subquestion_id": "14"
+    },
+    {
+        "varname": "G.PI.POLFIN.e.e1.DEFINITIONS",
+        "subquestion_id": "246"
+    },
+    {
+        "varname": "G.PI.POLFIN.e.e1.DONORID",
+        "subquestion_id": "244"
+    },
+    {
+        "varname": "G.PI.POLFIN.e.e1.CONTRIBUTIONS",
+        "subquestion_id": "237"
+    },
+    {
+        "varname": "G.PI.POLFIN.e.e1.AL",
+        "subquestion_id": "26"
+    },
+    {
+        "varname": "G.PI.POLFIN.e.e1.INCOMESPENDING",
+        "subquestion_id": "243"
+    },
+    {
+        "varname": "G.PI.POLFIN.e.e1.INKIND",
+        "subquestion_id": "25"
+    },
+    {
+        "varname": "G.PI.POLFIN.e.e2.AGENCY",
+        "subquestion_id": "13"
+    },
+    {
+        "varname": "G.PI.POLFIN.e.e2.VERIFICATION",
+        "subquestion_id": "12"
+    },
+    {
+        "varname": "G.PI.POLFIN.e.e3.CAMPAIGNSCHEDULES",
+        "subquestion_id": "242"
+    },
+    {
+        "varname": "G.PI.POLFIN.e.e3.STRUCTURED",
+        "subquestion_id": "16"
+    },
+    {
+        "varname": "G.PI.POLFIN.c.EXTENT",
+        "subquestion_id": "18"
+    },
+    {
+        "varname": "A.PI.POLFIN.a.ONLINE",
+        "subquestion_id": "1"
+    },
+    {
+        "varname": "A.PI.POLFIN.e.e1.BREAKDOWN",
+        "subquestion_id": "241"
+    },
+    {
+        "varname": "A.PI.POLFIN.e.e1.INCOME",
+        "subquestion_id": "240"
+    },
+    {
+        "varname": "A.PI.POLFIN.e.e1.AL",
+        "subquestion_id": "239"
+    },
+    {
+        "varname": "A.PI.POLFIN.e.e1.SPEND",
+        "subquestion_id": "238"
+    },
+    {
+        "varname": "A.PI.POLFIN.e.e1.INKIND",
+        "subquestion_id": "252"
+    },
+    {
+        "varname": "A.PI.POLFIN.e.e1.DONATIONS",
+        "subquestion_id": "253"
+    },
+    {
+        "varname": "A.PI.POLFIN.e.e1.DONORNAME",
+        "subquestion_id": "254"
+    },
+    {
+        "varname": "A.PI.POLFIN.e.e1.DONORS",
+        "subquestion_id": "255"
+    },
+    {
+        "varname": "A.PI.POLFIN.e.e1.DONORID",
+        "subquestion_id": "256"
+    },
+    {
+        "varname": "A.PI.POLFIN.e.e3.FREE",
+        "subquestion_id": "7"
+    },
+    {
+        "varname": "A.PI.POLFIN.e.e3.LICENSE",
+        "subquestion_id": "6"
+    },
+    {
+        "varname": "A.PI.POLFIN.e.e3.LANG",
+        "subquestion_id": "5"
+    },
+    {
+        "varname": "A.PI.POLFIN.e.e3.TOOLS",
+        "subquestion_id": "0"
+    },
+    {
+        "varname": "A.PI.POLFIN.e.e3.TIMELY",
+        "subquestion_id": "9"
+    },
+    {
+        "varname": "A.PI.POLFIN.e.e3.HISTORICAL",
+        "subquestion_id": "4"
+    },
+    {
+        "varname": "A.PI.POLFIN.e.e3.MACHINE_READABLE",
+        "subquestion_id": "3"
+    },
+    {
+        "varname": "A.PI.POLFIN.e.e3.BULK",
+        "subquestion_id": "2"
+    },
+    {
+        "varname": "A.PI.POLFIN.e.eb.MISSINGDATA",
+        "subquestion_id": "8"
+    },
+    {
+        "varname": "A.PI.POLFIN.e.eb.COVIDAFFECTED",
+        "subquestion_id": "11"
+    },
+    {
+        "varname": "A.PI.POLFIN.c.EXTENT",
+        "subquestion_id": "10"
+    },
+    {
+        "varname": "G.PI.IAD.a.EXIST",
+        "subquestion_id": "15"
+    },
+    {
+        "varname": "G.PI.IAD.a.DATARULES",
+        "subquestion_id": "14"
+    },
+    {
+        "varname": "G.PI.IAD.e.e1.AL",
+        "subquestion_id": "26"
+    },
+    {
+        "varname": "G.PI.IAD.e.e1.INKIND",
+        "subquestion_id": "25"
+    },
+    {
+        "varname": "G.PI.IAD.e.e1.CHANGE",
+        "subquestion_id": "165"
+    },
+    {
+        "varname": "G.PI.IAD.e.e1.FAMILY",
+        "subquestion_id": "258"
+    },
+    {
+        "varname": "G.PI.IAD.e.e2.AGENCY",
+        "subquestion_id": "13"
+    },
+    {
+        "varname": "G.PI.IAD.e.e2.VERIFICATION",
+        "subquestion_id": "12"
+    },
+    {
+        "varname": "G.PI.IAD.e.e3.TIMELY",
+        "subquestion_id": "17"
+    },
+    {
+        "varname": "G.PI.IAD.e.e3.PUBLICATION",
+        "subquestion_id": "259"
+    },
+    {
+        "varname": "G.PI.IAD.e.e3.STRUCTURED",
+        "subquestion_id": "16"
+    },
+    {
+        "varname": "G.PI.IAD.c.EXTENT",
+        "subquestion_id": "18"
+    },
+    {
+        "varname": "A.PI.IAD.a.ONLINE",
+        "subquestion_id": "1"
+    },
+    {
+        "varname": "A.PI.IAD.e.e1.OFFICIALID",
+        "subquestion_id": "260"
+    },
+    {
+        "varname": "A.PI.IAD.e.e1.IAL",
+        "subquestion_id": "261"
+    },
+    {
+        "varname": "A.PI.IAD.e.e1.INKIND",
+        "subquestion_id": "262"
+    },
+    {
+        "varname": "A.PI.IAD.e.e1.CHANGE",
+        "subquestion_id": "263"
+    },
+    {
+        "varname": "A.PI.IAD.e.e1.FAMILY",
+        "subquestion_id": "264"
+    },
+    {
+        "varname": "A.PI.IAD.e.e3.FREE",
+        "subquestion_id": "7"
+    },
+    {
+        "varname": "A.PI.IAD.e.e3.LICENSE",
+        "subquestion_id": "6"
+    },
+    {
+        "varname": "A.PI.IAD.e.e3.LANG",
+        "subquestion_id": "5"
+    },
+    {
+        "varname": "A.PI.IAD.e.e3.TOOLS",
+        "subquestion_id": "0"
+    },
+    {
+        "varname": "A.PI.IAD.e.e3.TIMELY",
+        "subquestion_id": "9"
+    },
+    {
+        "varname": "A.PI.IAD.e.e3.HISTORICAL",
+        "subquestion_id": "4"
+    },
+    {
+        "varname": "A.PI.IAD.e.e3.MACHINE_READABLE",
+        "subquestion_id": "3"
+    },
+    {
+        "varname": "A.PI.IAD.e.e3.BULK",
+        "subquestion_id": "2"
+    },
+    {
+        "varname": "A.PI.IAD.e.eb.MISSINGDATA",
+        "subquestion_id": "8"
+    },
+    {
+        "varname": "A.PI.IAD.e.eb.COVIDAFFECTED",
+        "subquestion_id": "11"
+    },
+    {
+        "varname": "A.PI.IAD.c.EXTENT",
+        "subquestion_id": "10"
+    },
+    {
+        "varname": "G.PI.LOBBY.a.EXIST",
+        "subquestion_id": "15"
+    },
+    {
+        "varname": "G.PI.LOBBY.a.DATARULES",
+        "subquestion_id": "14"
+    },
+    {
+        "varname": "G.PI.LOBBY.e.e1.DEFINITIONS",
+        "subquestion_id": "265"
+    },
+    {
+        "varname": "G.PI.LOBBY.e.e1.IDENTITY",
+        "subquestion_id": "266"
+    },
+    {
+        "varname": "G.PI.LOBBY.e.e1.GOALS",
+        "subquestion_id": "267"
+    },
+    {
+        "varname": "G.PI.LOBBY.e.e1.TIMING",
+        "subquestion_id": "268"
+    },
+    {
+        "varname": "G.PI.LOBBY.e.e1.TOPICS",
+        "subquestion_id": "201"
+    },
+    {
+        "varname": "G.PI.LOBBY.e.e1.SPEND",
+        "subquestion_id": "166"
+    },
+    {
+        "varname": "G.PI.LOBBY.e.e2.AGENCY",
+        "subquestion_id": "13"
+    },
+    {
+        "varname": "G.PI.LOBBY.e.e2.VERIFICATION",
+        "subquestion_id": "12"
+    },
+    {
+        "varname": "G.PI.LOBBY.e.e3.TIMELY",
+        "subquestion_id": "17"
+    },
+    {
+        "varname": "G.PI.LOBBY.e.e3.STRUCTURED",
+        "subquestion_id": "16"
+    },
+    {
+        "varname": "G.PI.LOBBY.c.EXTENT",
+        "subquestion_id": "132"
+    },
+    {
+        "varname": "A.PI.LOBBY.a.ONLINE",
+        "subquestion_id": "1"
+    },
+    {
+        "varname": "A.PI.LOBBY.e.e1.LOBBYID",
+        "subquestion_id": "164"
+    },
+    {
+        "varname": "A.PI.LOBBY.e.e1.CLIENTID",
+        "subquestion_id": "75"
+    },
+    {
+        "varname": "A.PI.LOBBY.e.e2.INTERACTION",
+        "subquestion_id": "74"
+    },
+    {
+        "varname": "A.PI.LOBBY.e.e2.GOALS",
+        "subquestion_id": "73"
+    },
+    {
+        "varname": "A.PI.LOBBY.e.e2.TIMING",
+        "subquestion_id": "72"
+    },
+    {
+        "varname": "A.PI.LOBBY.e.e2.TOPICS",
+        "subquestion_id": "71"
+    },
+    {
+        "varname": "A.PI.LOBBY.e.e2.COSTS",
+        "subquestion_id": "70"
+    },
+    {
+        "varname": "A.PI.LOBBY.e.e3.FREE",
+        "subquestion_id": "7"
+    },
+    {
+        "varname": "A.PI.LOBBY.e.e3.LICENSE",
+        "subquestion_id": "6"
+    },
+    {
+        "varname": "A.PI.LOBBY.e.e3.LANG",
+        "subquestion_id": "5"
+    },
+    {
+        "varname": "A.PI.LOBBY.e.e3.TOOLS",
+        "subquestion_id": "0"
+    },
+    {
+        "varname": "A.PI.LOBBY.e.e3.TIMELY",
+        "subquestion_id": "9"
+    },
+    {
+        "varname": "A.PI.LOBBY.e.e3.HISTORICAL",
+        "subquestion_id": "4"
+    },
+    {
+        "varname": "A.PI.LOBBY.e.e3.MACHINE_READABLE",
+        "subquestion_id": "3"
+    },
+    {
+        "varname": "A.PI.LOBBY.e.e3.BULK",
+        "subquestion_id": "2"
+    },
+    {
+        "varname": "A.PI.LOBBY.e.eb.MISSINGDATA",
+        "subquestion_id": "8"
+    },
+    {
+        "varname": "A.PI.LOBBY.e.eb.COVIDAFFECTED",
+        "subquestion_id": "11"
+    },
+    {
+        "varname": "A.PI.LOBBY.c.EXTENT",
+        "subquestion_id": "10"
+    },
+    {
+        "varname": "G.PI.PUBCON.a.EXIST",
+        "subquestion_id": "15"
+    },
+    {
+        "varname": "G.PI.PUBCON.a.DATARULES",
+        "subquestion_id": "14"
+    },
+    {
+        "varname": "G.PI.PUBCON.e.e1.INTENT",
+        "subquestion_id": "68"
+    },
+    {
+        "varname": "G.PI.PUBCON.e.e1.PROPOSED",
+        "subquestion_id": "61"
+    },
+    {
+        "varname": "G.PI.PUBCON.e.e1.COMMENTS",
+        "subquestion_id": "67"
+    },
+    {
+        "varname": "G.PI.PUBCON.e.e1.RESPONSE",
+        "subquestion_id": "66"
+    },
+    {
+        "varname": "G.PI.PUBCON.e.e1.FINAL",
+        "subquestion_id": "65"
+    },
+    {
+        "varname": "G.PI.PUBCON.e.e1.CHALLENGE",
+        "subquestion_id": "64"
+    },
+    {
+        "varname": "G.PI.PUBCON.e.e2.AGENCY",
+        "subquestion_id": "13"
+    },
+    {
+        "varname": "G.PI.PUBCON.e.e2.VERIFICATION",
+        "subquestion_id": "12"
+    },
+    {
+        "varname": "G.PI.PUBCON.e.e3.TIMELY",
+        "subquestion_id": "17"
+    },
+    {
+        "varname": "G.PI.PUBCON.e.e3.STRUCTURED",
+        "subquestion_id": "16"
+    },
+    {
+        "varname": "G.PI.PUBCON.c.EXTENT",
+        "subquestion_id": "18"
+    },
+    {
+        "varname": "A.PI.PUBCON.a.ONLINE",
+        "subquestion_id": "1"
+    },
+    {
+        "varname": "A.PI.PUBCON.e.e1.PROPOSED",
+        "subquestion_id": "63"
+    },
+    {
+        "varname": "A.PI.PUBCON.e.e1.COMMENTS",
+        "subquestion_id": "62"
+    },
+    {
+        "varname": "A.PI.PUBCON.e.e1.SUPORTING",
+        "subquestion_id": "76"
+    },
+    {
+        "varname": "A.PI.PUBCON.e.e1.FINAL",
+        "subquestion_id": "69"
+    },
+    {
+        "varname": "A.PI.PUBCON.e.e1.CHALLENGE",
+        "subquestion_id": "77"
+    },
+    {
+        "varname": "A.PI.PUBCON.e.e3.FREE",
+        "subquestion_id": "7"
+    },
+    {
+        "varname": "A.PI.PUBCON.e.e3.LICENSE",
+        "subquestion_id": "6"
+    },
+    {
+        "varname": "A.PI.PUBCON.e.e3.LANG",
+        "subquestion_id": "5"
+    },
+    {
+        "varname": "A.PI.PUBCON.e.e3.TOOLS",
+        "subquestion_id": "0"
+    },
+    {
+        "varname": "A.PI.PUBCON.e.e3.TIMELY",
+        "subquestion_id": "9"
+    },
+    {
+        "varname": "A.PI.PUBCON.e.e3.HISTORICAL",
+        "subquestion_id": "4"
+    },
+    {
+        "varname": "A.PI.PUBCON.e.e3.MACHINE_READABLE",
+        "subquestion_id": "3"
+    },
+    {
+        "varname": "A.PI.PUBCON.e.e3.BULK",
+        "subquestion_id": "2"
+    },
+    {
+        "varname": "A.PI.PUBCON.e.eb.MISSINGDATA",
+        "subquestion_id": "8"
+    },
+    {
+        "varname": "A.PI.PUBCON.e.eb.COVIDAFFECTED",
+        "subquestion_id": "11"
+    },
+    {
+        "varname": "A.PI.PUBCON.c.EXTENT",
+        "subquestion_id": "10"
+    },
+    {
+        "varname": "G.PI.RTI.a.EXIST",
+        "subquestion_id": "15"
+    },
+    {
+        "varname": "G.PI.RTI.a.DATARULES",
+        "subquestion_id": "14"
+    },
+    {
+        "varname": "G.PI.RTI.e.e1.NREQ",
+        "subquestion_id": "87"
+    },
+    {
+        "varname": "G.PI.RTI.e.e1.RTIME",
+        "subquestion_id": "93"
+    },
+    {
+        "varname": "G.PI.RTI.e.e1.EXEMPTREASONS",
+        "subquestion_id": "92"
+    },
+    {
+        "varname": "G.PI.RTI.e.e1.APPEALS",
+        "subquestion_id": "91"
+    },
+    {
+        "varname": "G.PI.RTI.e.e1.DISAGG",
+        "subquestion_id": "90"
+    },
+    {
+        "varname": "G.PI.RTI.e.e2.AGENCY",
+        "subquestion_id": "13"
+    },
+    {
+        "varname": "G.PI.RTI.e.e2.VERIFICATION",
+        "subquestion_id": "12"
+    },
+    {
+        "varname": "G.PI.RTI.e.e3.TIMELY",
+        "subquestion_id": "17"
+    },
+    {
+        "varname": "G.PI.RTI.e.e3.STRUCTURED",
+        "subquestion_id": "16"
+    },
+    {
+        "varname": "G.PI.RTI.c.EXTENT",
+        "subquestion_id": "89"
+    },
+    {
+        "varname": "A.PI.RTI.a.ONLINE",
+        "subquestion_id": "1"
+    },
+    {
+        "varname": "A.PI.RTI.e.e1.NREQ",
+        "subquestion_id": "88"
+    },
+    {
+        "varname": "A.PI.RTI.e.e1.RESPONSE",
+        "subquestion_id": "86"
+    },
+    {
+        "varname": "A.PI.RTI.e.e1.WITHHELD",
+        "subquestion_id": "79"
+    },
+    {
+        "varname": "A.PI.RTI.e.e1.APPEALS",
+        "subquestion_id": "85"
+    },
+    {
+        "varname": "A.PI.RTI.e.e1.AGENCY",
+        "subquestion_id": "84"
+    },
+    {
+        "varname": "A.PI.RTI.e.e3.FREE",
+        "subquestion_id": "7"
+    },
+    {
+        "varname": "A.PI.RTI.e.e3.LICENSE",
+        "subquestion_id": "6"
+    },
+    {
+        "varname": "A.PI.RTI.e.e3.LANG",
+        "subquestion_id": "5"
+    },
+    {
+        "varname": "A.PI.RTI.e.e3.TOOLS",
+        "subquestion_id": "0"
+    },
+    {
+        "varname": "A.PI.RTI.e.e3.TIMELY",
+        "subquestion_id": "9"
+    },
+    {
+        "varname": "A.PI.RTI.e.e3.HISTORICAL",
+        "subquestion_id": "4"
+    },
+    {
+        "varname": "A.PI.RTI.e.e3.MACHINE_READABLE",
+        "subquestion_id": "3"
+    },
+    {
+        "varname": "A.PI.RTI.e.e3.BULK",
+        "subquestion_id": "2"
+    },
+    {
+        "varname": "A.PI.RTI.e.eb.MISSINGDATA",
+        "subquestion_id": "8"
+    },
+    {
+        "varname": "A.PI.RTI.e.eb.COVIDAFFECTED",
+        "subquestion_id": "11"
+    },
+    {
+        "varname": "A.PI.RTI.c.EXTENT",
+        "subquestion_id": "10"
+    },
+    {
+        "varname": "C.PI.INTEROP.a.EXISTS",
+        "subquestion_id": "83"
+    },
+    {
+        "varname": "C.PI.INTEROP.e.e1.COMMONID",
+        "subquestion_id": "82"
+    },
+    {
+        "varname": "C.PI.INTEROP.e.e1.PERSONID",
+        "subquestion_id": "81"
+    },
+    {
+        "varname": "C.PI.INTEROP.e.e1.CLIENTID",
+        "subquestion_id": "59"
+    },
+    {
+        "varname": "C.PI.INTEROP.e.e1.REGULATIONS",
+        "subquestion_id": "78"
+    },
+    {
+        "varname": "C.PI.INTEROP.e.e1.INCOMEASSETS",
+        "subquestion_id": "60"
+    },
+    {
+        "varname": "C.PI.INTEROP.e.e1.ORGID",
+        "subquestion_id": "45"
+    },
+    {
+        "varname": "C.PI.INTEROP.e.e2.COMPANY",
+        "subquestion_id": "58"
+    },
+    {
+        "varname": "C.PI.INTEROP.e.e2.LAND",
+        "subquestion_id": "41"
+    },
+    {
+        "varname": "C.PI.INTEROP.e.e2.FINANCE",
+        "subquestion_id": "38"
+    },
+    {
+        "varname": "C.PI.INTEROP.e.e2.PROCUREMENT",
+        "subquestion_id": "36"
+    },
+    {
+        "varname": "C.PI.INTEROP.c.EXTENT",
+        "subquestion_id": "34"
+    },
+    {
+        "varname": "U.PI.ACCOUNT.a.EXISTS",
+        "subquestion_id": "30"
+    },
+    {
+        "varname": "U.PI.ACCOUNT.e.e1.CSO",
+        "subquestion_id": "29"
+    },
+    {
+        "varname": "U.PI.ACCOUNT.e.e1.MEDIA",
+        "subquestion_id": "32"
+    },
+    {
+        "varname": "U.PI.ACCOUNT.e.e1.ACADEMIA",
+        "subquestion_id": "33"
+    },
+    {
+        "varname": "U.PI.ACCOUNT.e.e1.PRIVATESECTOR",
+        "subquestion_id": "35"
+    },
+    {
+        "varname": "U.PI.ACCOUNT.e.e2.AI",
+        "subquestion_id": "20"
+    },
+    {
+        "varname": "U.PI.ACCOUNT.c.EXTENT",
+        "subquestion_id": "21"
+    },
+    {
+        "varname": "G.PF.PUB-FINANCE.a.EXIST",
+        "subquestion_id": "15"
+    },
+    {
+        "varname": "G.PF.PUB-FINANCE.a.DATARULES",
+        "subquestion_id": "14"
+    },
+    {
+        "varname": "G.PF.PUB-FINANCE.e.e1.SUMMARY",
+        "subquestion_id": "37"
+    },
+    {
+        "varname": "G.PF.PUB-FINANCE.e.e1.TRANSACTIONS",
+        "subquestion_id": "39"
+    },
+    {
+        "varname": "G.PF.PUB-FINANCE.e.e1.EXECBUDGET",
+        "subquestion_id": "40"
+    },
+    {
+        "varname": "G.PF.PUB-FINANCE.e.e1.ENACTED",
+        "subquestion_id": "31"
+    },
+    {
+        "varname": "G.PF.PUB-FINANCE.e.e1.INYEAR",
+        "subquestion_id": "44"
+    },
+    {
+        "varname": "G.PF.PUB-FINANCE.e.e1.YER",
+        "subquestion_id": "43"
+    },
+    {
+        "varname": "G.PF.PUB-FINANCE.e.e2.AGENCY",
+        "subquestion_id": "13"
+    },
+    {
+        "varname": "G.PF.PUB-FINANCE.e.e2.VERIFICATION",
+        "subquestion_id": "12"
+    },
+    {
+        "varname": "G.PF.PUB-FINANCE.e.e3.TIMELY",
+        "subquestion_id": "17"
+    },
+    {
+        "varname": "G.PF.PUB-FINANCE.e.e3.STRUCTURED",
+        "subquestion_id": "16"
+    },
+    {
+        "varname": "G.PF.PUB-FINANCE.c.EXTENT",
+        "subquestion_id": "46"
+    },
+    {
+        "varname": "A.PF.BUDGETSPEND.a.ONLINE",
+        "subquestion_id": "1"
+    },
+    {
+        "varname": "A.PF.BUDGETSPEND.e.e1.PROPOSED",
+        "subquestion_id": "47"
+    },
+    {
+        "varname": "A.PF.BUDGETSPEND.e.e1.AMENDED",
+        "subquestion_id": "48"
+    },
+    {
+        "varname": "A.PF.BUDGETSPEND.e.e1.APPROVED",
+        "subquestion_id": "49"
+    },
+    {
+        "varname": "A.PF.BUDGETSPEND.e.e1.SGA",
+        "subquestion_id": "50"
+    },
+    {
+        "varname": "A.PF.BUDGETSPEND.e.e1.EXTRASPENDING",
+        "subquestion_id": "51"
+    },
+    {
+        "varname": "A.PF.BUDGETSPEND.e.e1.SOCIALSECURITY",
+        "subquestion_id": "52"
+    },
+    {
+        "varname": "A.PF.BUDGETSPEND.e.e1.PUBCORP",
+        "subquestion_id": "53"
+    },
+    {
+        "varname": "A.PF.BUDGETSPEND.e.e2.ADMIN",
+        "subquestion_id": "143"
+    },
+    {
+        "varname": "A.PF.BUDGETSPEND.e.e2.ECON",
+        "subquestion_id": "142"
+    },
+    {
+        "varname": "A.PF.BUDGETSPEND.e.e2.FUNC",
+        "subquestion_id": "139"
+    },
+    {
+        "varname": "A.PF.BUDGETSPEND.e.e2.PROGRAM",
+        "subquestion_id": "137"
+    },
+    {
+        "varname": "A.PF.BUDGETSPEND.e.e2.TRANSACTION",
+        "subquestion_id": "136"
+    },
+    {
+        "varname": "A.PF.BUDGETSPEND.e.e2.CROSSCUTTING",
+        "subquestion_id": "135"
+    },
+    {
+        "varname": "A.PF.BUDGETSPEND.e.e2.COMMONID",
+        "subquestion_id": "134"
+    },
+    {
+        "varname": "A.PF.BUDGETSPEND.e.e2.PROJECT",
+        "subquestion_id": "148"
+    },
+    {
+        "varname": "A.PF.BUDGETSPEND.e.e3.FREE",
+        "subquestion_id": "7"
+    },
+    {
+        "varname": "A.PF.BUDGETSPEND.e.e3.LICENSE",
+        "subquestion_id": "6"
+    },
+    {
+        "varname": "A.PF.BUDGETSPEND.e.e3.LANG",
+        "subquestion_id": "5"
+    },
+    {
+        "varname": "A.PF.BUDGETSPEND.e.e3.TOOLS",
+        "subquestion_id": "0"
+    },
+    {
+        "varname": "A.PF.BUDGETSPEND.e.e3.TIMELY",
+        "subquestion_id": "9"
+    },
+    {
+        "varname": "A.PF.BUDGETSPEND.e.e3.HISTORICAL",
+        "subquestion_id": "4"
+    },
+    {
+        "varname": "A.PF.BUDGETSPEND.e.e3.MACHINE_READABLE",
+        "subquestion_id": "3"
+    },
+    {
+        "varname": "A.PF.BUDGETSPEND.e.e3.BULK",
+        "subquestion_id": "2"
+    },
+    {
+        "varname": "A.PF.BUDGETSPEND.e.eb.MISSINGDATA",
+        "subquestion_id": "8"
+    },
+    {
+        "varname": "A.PF.BUDGETSPEND.e.eb.COVIDAFFECTED",
+        "subquestion_id": "11"
+    },
+    {
+        "varname": "A.PF.BUDGETSPEND.c.EXTENT",
+        "subquestion_id": "149"
+    },
+    {
+        "varname": "A.PROCUREMENT.OC.a.ONLINE",
+        "subquestion_id": "1"
+    },
+    {
+        "varname": "A.PROCUREMENT.OC.e.e1.GOODS",
+        "subquestion_id": "150"
+    },
+    {
+        "varname": "A.PROCUREMENT.OC.e.e1.WORKS",
+        "subquestion_id": "151"
+    },
+    {
+        "varname": "A.PROCUREMENT.OC.e.e1.PLANNING",
+        "subquestion_id": "152"
+    },
+    {
+        "varname": "A.PROCUREMENT.OC.e.e1.TENDER",
+        "subquestion_id": "153"
+    },
+    {
+        "varname": "A.PROCUREMENT.OC.e.e1.AWARD",
+        "subquestion_id": "154"
+    },
+    {
+        "varname": "A.PROCUREMENT.OC.e.e1.IMPLEMENTATION",
+        "subquestion_id": "155"
+    },
+    {
+        "varname": "A.PROCUREMENT.OC.e.e2.PROCESSID",
+        "subquestion_id": "156"
+    },
+    {
+        "varname": "A.PROCUREMENT.OC.e.e2.COMPANYID",
+        "subquestion_id": "157"
+    },
+    {
+        "varname": "A.PROCUREMENT.OC.e.e2.DATES",
+        "subquestion_id": "158"
+    },
+    {
+        "varname": "A.PROCUREMENT.OC.e.e2.VALUES",
+        "subquestion_id": "159"
+    },
+    {
+        "varname": "A.PROCUREMENT.OC.e.e2.SPENDLINK",
+        "subquestion_id": "160"
+    },
+    {
+        "varname": "A.PROCUREMENT.OC.e.e2.ITEMS",
+        "subquestion_id": "161"
+    },
+    {
+        "varname": "A.PROCUREMENT.OC.e.e2.STANDARDS",
+        "subquestion_id": "22"
+    },
+    {
+        "varname": "A.PROCUREMENT.OC.e.e2.DOCUMENTS",
+        "subquestion_id": "162"
+    },
+    {
+        "varname": "A.PROCUREMENT.OC.e.e3.FREE",
+        "subquestion_id": "7"
+    },
+    {
+        "varname": "A.PROCUREMENT.OC.e.e3.LICENSE",
+        "subquestion_id": "6"
+    },
+    {
+        "varname": "A.PROCUREMENT.OC.e.e3.LANG",
+        "subquestion_id": "5"
+    },
+    {
+        "varname": "A.PROCUREMENT.OC.e.e3.TOOLS",
+        "subquestion_id": "0"
+    },
+    {
+        "varname": "A.PROCUREMENT.OC.e.e3.TIMELY",
+        "subquestion_id": "9"
+    },
+    {
+        "varname": "A.PROCUREMENT.OC.e.e3.HISTORICAL",
+        "subquestion_id": "4"
+    },
+    {
+        "varname": "A.PROCUREMENT.OC.e.e3.MACHINE_READABLE",
+        "subquestion_id": "3"
+    },
+    {
+        "varname": "A.PROCUREMENT.OC.e.e3.BULK",
+        "subquestion_id": "2"
+    },
+    {
+        "varname": "A.PROCUREMENT.OC.e.eb.MISSINGDATA",
+        "subquestion_id": "8"
+    },
+    {
+        "varname": "A.PROCUREMENT.OC.e.eb.COVIDAFFECTED",
+        "subquestion_id": "11"
+    },
+    {
+        "varname": "A.PROCUREMENT.OC.c.EXTENT",
+        "subquestion_id": "10"
+    },
+    {
+        "varname": "U.PROCUREMENT.ANALYTICS.a.EXISTS",
+        "subquestion_id": "163"
+    },
+    {
+        "varname": "U.PROCUREMENT.ANALYTICS.e.e1.DASHBOARD",
+        "subquestion_id": "140"
+    },
+    {
+        "varname": "U.PROCUREMENT.ANALYTICS.e.e1.REDFLAG",
+        "subquestion_id": "130"
+    },
+    {
+        "varname": "U.PROCUREMENT.ANALYTICS.e.e1.DIVERSITY",
+        "subquestion_id": "105"
+    },
+    {
+        "varname": "U.PROCUREMENT.ANALYTICS.e.e1.SUSTAIN",
+        "subquestion_id": "129"
+    },
+    {
+        "varname": "U.PROCUREMENT.ANALYTICS.e.e2.GOV",
+        "subquestion_id": "111"
+    },
+    {
+        "varname": "U.PROCUREMENT.ANALYTICS.e.e2.CSO",
+        "subquestion_id": "110"
+    },
+    {
+        "varname": "U.PROCUREMENT.ANALYTICS.e.e2.2",
+        "subquestion_id": "109"
+    },
+    {
+        "varname": "U.PROCUREMENT.ANALYTICS.e.e3.PROCUREMENT",
+        "subquestion_id": "108"
+    },
+    {
+        "varname": "U.PROCUREMENT.ANALYTICS.e.e3.BO",
+        "subquestion_id": "107"
+    },
+    {
+        "varname": "U.PROCUREMENT.ANALYTICS.e.e3.AI",
+        "subquestion_id": "20"
+    },
+    {
+        "varname": "U.PROCUREMENT.ANALYTICS.c.EXTENT",
+        "subquestion_id": "21"
+    },
+    {
+        "varname": "A.CLIMATE.EMI.a.ONLINE",
+        "subquestion_id": "1"
+    },
+    {
+        "varname": "A.CLIMATE.EMI.e.e1.NATDETAIL",
+        "subquestion_id": "106"
+    },
+    {
+        "varname": "A.CLIMATE.EMI.e.e1.SOURCES",
+        "subquestion_id": "104"
+    },
+    {
+        "varname": "A.CLIMATE.EMI.e.e1.LANDUSE",
+        "subquestion_id": "97"
+    },
+    {
+        "varname": "A.CLIMATE.EMI.e.e1.EID",
+        "subquestion_id": "103"
+    },
+    {
+        "varname": "A.CLIMATE.EMI.e.e3.FREE",
+        "subquestion_id": "7"
+    },
+    {
+        "varname": "A.CLIMATE.EMI.e.e3.LICENSE",
+        "subquestion_id": "6"
+    },
+    {
+        "varname": "A.CLIMATE.EMI.e.e3.LANG",
+        "subquestion_id": "5"
+    },
+    {
+        "varname": "A.CLIMATE.EMI.e.e3.TOOLS",
+        "subquestion_id": "0"
+    },
+    {
+        "varname": "A.CLIMATE.EMI.e.e3.TIMELY",
+        "subquestion_id": "9"
+    },
+    {
+        "varname": "A.CLIMATE.EMI.e.e3.HISTORICAL",
+        "subquestion_id": "4"
+    },
+    {
+        "varname": "A.CLIMATE.EMI.e.e3.MACHINE_READABLE",
+        "subquestion_id": "3"
+    },
+    {
+        "varname": "A.CLIMATE.EMI.e.e3.BULK",
+        "subquestion_id": "2"
+    },
+    {
+        "varname": "A.CLIMATE.EMI.e.eb.MISSINGDATA",
+        "subquestion_id": "8"
+    },
+    {
+        "varname": "A.CLIMATE.EMI.e.eb.COVIDAFFECTED",
+        "subquestion_id": "11"
+    },
+    {
+        "varname": "A.CLIMATE.EMI.c.EXTENT",
+        "subquestion_id": "10"
+    },
+    {
+        "varname": "A.CLIMATE.BIO.a.ONLINE",
+        "subquestion_id": "1"
+    },
+    {
+        "varname": "A.CLIMATE.BIO.e.e1.MAMMALS",
+        "subquestion_id": "102"
+    },
+    {
+        "varname": "A.CLIMATE.BIO.e.e1.BIRDS",
+        "subquestion_id": "101"
+    },
+    {
+        "varname": "A.CLIMATE.BIO.e.e1.REPTILES",
+        "subquestion_id": "100"
+    },
+    {
+        "varname": "A.CLIMATE.BIO.e.e1.AMPHIBIANS",
+        "subquestion_id": "99"
+    },
+    {
+        "varname": "A.CLIMATE.BIO.e.e1.FISH",
+        "subquestion_id": "98"
+    },
+    {
+        "varname": "A.CLIMATE.BIO.e.e1.INVERTEBRATES",
+        "subquestion_id": "112"
+    },
+    {
+        "varname": "A.CLIMATE.BIO.e.e1.FUNGI",
+        "subquestion_id": "113"
+    },
+    {
+        "varname": "A.CLIMATE.BIO.e.e1.NVP",
+        "subquestion_id": "114"
+    },
+    {
+        "varname": "A.CLIMATE.BIO.e.e1.VP",
+        "subquestion_id": "115"
+    },
+    {
+        "varname": "A.CLIMATE.BIO.e.e1.GREENLIST",
+        "subquestion_id": "116"
+    },
+    {
+        "varname": "A.CLIMATE.BIO.e.e2.STANDARDS",
+        "subquestion_id": "22"
+    },
+    {
+        "varname": "A.CLIMATE.BIO.e.e2.VALIDATION",
+        "subquestion_id": "117"
+    },
+    {
+        "varname": "A.CLIMATE.BIO.e.e2.CONTRIB",
+        "subquestion_id": "27"
+    },
+    {
+        "varname": "A.CLIMATE.BIO.e.e2.LIMITS",
+        "subquestion_id": "118"
+    },
+    {
+        "varname": "A.CLIMATE.BIO.e.e3.FREE",
+        "subquestion_id": "7"
+    },
+    {
+        "varname": "A.CLIMATE.BIO.e.e3.LICENSE",
+        "subquestion_id": "6"
+    },
+    {
+        "varname": "A.CLIMATE.BIO.e.e3.LANG",
+        "subquestion_id": "5"
+    },
+    {
+        "varname": "A.CLIMATE.BIO.e.e3.TOOLS",
+        "subquestion_id": "0"
+    },
+    {
+        "varname": "A.CLIMATE.BIO.e.e3.TIMELY",
+        "subquestion_id": "9"
+    },
+    {
+        "varname": "A.CLIMATE.BIO.e.e3.HISTORICAL",
+        "subquestion_id": "4"
+    },
+    {
+        "varname": "A.CLIMATE.BIO.e.e3.MACHINE_READABLE",
+        "subquestion_id": "3"
+    },
+    {
+        "varname": "A.CLIMATE.BIO.e.e3.BULK",
+        "subquestion_id": "2"
+    },
+    {
+        "varname": "A.CLIMATE.BIO.e.eb.COVIDAFFECTED",
+        "subquestion_id": "11"
+    },
+    {
+        "varname": "A.CLIMATE.BIO.c.EXTENT",
+        "subquestion_id": "10"
+    },
+    {
+        "varname": "A.CLIMATE.VUL.a.ONLINE",
+        "subquestion_id": "1"
+    },
+    {
+        "varname": "A.CLIMATE.VUL.e.e1.HAZARDS",
+        "subquestion_id": "121"
+    },
+    {
+        "varname": "A.CLIMATE.VUL.e.e1.PGMP",
+        "subquestion_id": "122"
+    },
+    {
+        "varname": "A.CLIMATE.VUL.e.e1.LOCAL",
+        "subquestion_id": "123"
+    },
+    {
+        "varname": "A.CLIMATE.VUL.e.e1.OPENMODEL",
+        "subquestion_id": "124"
+    },
+    {
+        "varname": "A.CLIMATE.VUL.e.e1.CONTRIB",
+        "subquestion_id": "27"
+    },
+    {
+        "varname": "A.CLIMATE.VUL.e.e3.FREE",
+        "subquestion_id": "7"
+    },
+    {
+        "varname": "A.CLIMATE.VUL.e.e3.LICENSE",
+        "subquestion_id": "6"
+    },
+    {
+        "varname": "A.CLIMATE.VUL.e.e3.LANG",
+        "subquestion_id": "5"
+    },
+    {
+        "varname": "A.CLIMATE.VUL.e.e3.TOOLS",
+        "subquestion_id": "0"
+    },
+    {
+        "varname": "A.CLIMATE.VUL.e.e3.TIMELY",
+        "subquestion_id": "9"
+    },
+    {
+        "varname": "A.CLIMATE.VUL.e.e3.HISTORICAL",
+        "subquestion_id": "4"
+    },
+    {
+        "varname": "A.CLIMATE.VUL.e.e3.MACHINE_READABLE",
+        "subquestion_id": "3"
+    },
+    {
+        "varname": "A.CLIMATE.VUL.e.e3.BULK",
+        "subquestion_id": "2"
+    },
+    {
+        "varname": "A.CLIMATE.VUL.e.eb.MISSINGDATA",
+        "subquestion_id": "8"
+    },
+    {
+        "varname": "A.CLIMATE.VUL.e.eb.COVIDAFFECTED",
+        "subquestion_id": "11"
+    },
+    {
+        "varname": "A.CLIMATE.VUL.c.EXTENT",
+        "subquestion_id": "10"
+    },
+    {
+        "varname": "A.HEALTH.CRVS.a.ONLINE",
+        "subquestion_id": "1"
+    },
+    {
+        "varname": "A.HEALTH.CRVS.e.e1.COMPLETENESS",
+        "subquestion_id": "125"
+    },
+    {
+        "varname": "A.HEALTH.CRVS.e.e1.DEATH",
+        "subquestion_id": "126"
+    },
+    {
+        "varname": "A.HEALTH.CRVS.e.e2.MORTALITY",
+        "subquestion_id": "128"
+    },
+    {
+        "varname": "A.HEALTH.CRVS.e.e2.CHILD",
+        "subquestion_id": "146"
+    },
+    {
+        "varname": "A.HEALTH.CRVS.e.e2.LIVEBIRTH",
+        "subquestion_id": "42"
+    },
+    {
+        "varname": "A.HEALTH.CRVS.e.e2.BIRTHDETAILS",
+        "subquestion_id": "127"
+    },
+    {
+        "varname": "A.HEALTH.CRVS.e.e2.BIRTHREG",
+        "subquestion_id": "120"
+    },
+    {
+        "varname": "A.HEALTH.CRVS.e.e2.MATERNAL",
+        "subquestion_id": "119"
+    },
+    {
+        "varname": "A.HEALTH.CRVS.e.e2.PATERNAL",
+        "subquestion_id": "147"
+    },
+    {
+        "varname": "A.HEALTH.CRVS.e.e2.PRENATAL",
+        "subquestion_id": "133"
+    },
+    {
+        "varname": "A.HEALTH.CRVS.e.e3.FREE",
+        "subquestion_id": "7"
+    },
+    {
+        "varname": "A.HEALTH.CRVS.e.e3.LICENSE",
+        "subquestion_id": "6"
+    },
+    {
+        "varname": "A.HEALTH.CRVS.e.e3.LANG",
+        "subquestion_id": "5"
+    },
+    {
+        "varname": "A.HEALTH.CRVS.e.e3.TOOLS",
+        "subquestion_id": "0"
+    },
+    {
+        "varname": "A.HEALTH.CRVS.e.e3.TIMELY",
+        "subquestion_id": "9"
+    },
+    {
+        "varname": "A.HEALTH.CRVS.e.e3.HISTORICAL",
+        "subquestion_id": "4"
+    },
+    {
+        "varname": "A.HEALTH.CRVS.e.e3.MACHINE_READABLE",
+        "subquestion_id": "3"
+    },
+    {
+        "varname": "A.HEALTH.CRVS.e.e3.BULK",
+        "subquestion_id": "2"
+    },
+    {
+        "varname": "A.HEALTH.CRVS.e.eb.MISSINGDATA",
+        "subquestion_id": "8"
+    },
+    {
+        "varname": "A.HEALTH.CRVS.e.eb.COVIDAFFECTED",
+        "subquestion_id": "11"
+    },
+    {
+        "varname": "A.HEALTH.CRVS.c.EXTENT",
+        "subquestion_id": "10"
+    },
+    {
+        "varname": "A.HEALTH.RTC.a.ONLINE",
+        "subquestion_id": "1"
+    },
+    {
+        "varname": "A.HEALTH.RTC.e.e1.FACILITYLEVEL",
+        "subquestion_id": "138"
+    },
+    {
+        "varname": "A.HEALTH.RTC.e.e1.BEDS",
+        "subquestion_id": "141"
+    },
+    {
+        "varname": "A.HEALTH.RTC.e.e1.DEVICES",
+        "subquestion_id": "144"
+    },
+    {
+        "varname": "A.HEALTH.RTC.e.e1.TESTS",
+        "subquestion_id": "145"
+    },
+    {
+        "varname": "A.HEALTH.RTC.e.e1.VACCINES",
+        "subquestion_id": "95"
+    },
+    {
+        "varname": "A.HEALTH.RTC.e.e3.FREE",
+        "subquestion_id": "7"
+    },
+    {
+        "varname": "A.HEALTH.RTC.e.e3.LICENSE",
+        "subquestion_id": "6"
+    },
+    {
+        "varname": "A.HEALTH.RTC.e.e3.LANG",
+        "subquestion_id": "5"
+    },
+    {
+        "varname": "A.HEALTH.RTC.e.e3.TOOLS",
+        "subquestion_id": "0"
+    },
+    {
+        "varname": "A.HEALTH.RTC.e.e3.TIMELY",
+        "subquestion_id": "131"
+    },
+    {
+        "varname": "A.HEALTH.RTC.e.e3.HISTORICAL",
+        "subquestion_id": "4"
+    },
+    {
+        "varname": "A.HEALTH.RTC.e.e3.MACHINE_READABLE",
+        "subquestion_id": "3"
+    },
+    {
+        "varname": "A.HEALTH.RTC.e.e3.BULK",
+        "subquestion_id": "2"
+    },
+    {
+        "varname": "A.HEALTH.RTC.e.eb.MISSINGDATA",
+        "subquestion_id": "8"
+    },
+    {
+        "varname": "A.HEALTH.RTC.c.EXTENT",
+        "subquestion_id": "10"
+    },
+    {
+        "varname": "A.HEALTH.VAC.a.ONLINE",
+        "subquestion_id": "1"
+    },
+    {
+        "varname": "A.HEALTH.VAC.e.e1.SUPPLY",
+        "subquestion_id": "96"
+    },
+    {
+        "varname": "A.HEALTH.VAC.e.e1.GEO",
+        "subquestion_id": "80"
+    },
+    {
+        "varname": "A.HEALTH.VAC.e.e1.AGE",
+        "subquestion_id": "94"
+    },
+    {
+        "varname": "A.HEALTH.VAC.e.e1.SEX",
+        "subquestion_id": "57"
+    },
+    {
+        "varname": "A.HEALTH.VAC.e.e1.DS",
+        "subquestion_id": "56"
+    },
+    {
+        "varname": "A.HEALTH.VAC.e.e1.MPS",
+        "subquestion_id": "55"
+    },
+    {
+        "varname": "A.HEALTH.VAC.e.e1.LTC",
+        "subquestion_id": "54"
+    },
+    {
+        "varname": "A.HEALTH.VAC.e.e1.JAIL",
+        "subquestion_id": "303"
+    },
+    {
+        "varname": "A.HEALTH.VAC.e.e3.FREE",
+        "subquestion_id": "7"
+    },
+    {
+        "varname": "A.HEALTH.VAC.e.e3.LICENSE",
+        "subquestion_id": "6"
+    },
+    {
+        "varname": "A.HEALTH.VAC.e.e3.LANG",
+        "subquestion_id": "5"
+    },
+    {
+        "varname": "A.HEALTH.VAC.e.e3.TOOLS",
+        "subquestion_id": "0"
+    },
+    {
+        "varname": "A.HEALTH.VAC.e.e3.TIMELY",
+        "subquestion_id": "9"
+    },
+    {
+        "varname": "A.HEALTH.VAC.e.e3.HISTORICAL",
+        "subquestion_id": "4"
+    },
+    {
+        "varname": "A.HEALTH.VAC.e.e3.MACHINE_READABLE",
+        "subquestion_id": "3"
+    },
+    {
+        "varname": "A.HEALTH.VAC.e.e3.BULK",
+        "subquestion_id": "2"
+    },
+    {
+        "varname": "A.HEALTH.VAC.e.eb.MISSINGDATA",
+        "subquestion_id": "8"
+    },
+    {
+        "varname": "A.HEALTH.VAC.c.EXTENT",
+        "subquestion_id": "10"
+    }
+]

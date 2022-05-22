@@ -1,0 +1,639 @@
+[
+    {
+        "indicator_id": "A.CLIMATE.EMI",
+        "slug": "",
+        "indicator_name": "Availability (CA): Emission",
+        "indicator_name_medium": "Emissions data",
+        "indicator_name_short": "Emissions",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent is emissions information available as open data?"
+    },
+    {
+        "indicator_id": "A.CLIMATE.BIO",
+        "slug": "",
+        "indicator_name": "Availability (CA): Biodiversity",
+        "indicator_name_medium": "Biodiversity data",
+        "indicator_name_short": "Biodiversity",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent is information on endangered species and ecosystems available as open data?"
+    },
+    {
+        "indicator_id": "A.CLIMATE.VUL",
+        "slug": "",
+        "indicator_name": "Availability (CA): Vulnerability",
+        "indicator_name_medium": "Vulnerability data",
+        "indicator_name_short": "Vulnerability",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent is climate vulnerability information available as open data?"
+    },
+    {
+        "indicator_id": "A.COMPANY.BOT",
+        "slug": "",
+        "indicator_name": "Availability (CI): Beneficial ownership",
+        "indicator_name_medium": "Beneficial ownership data",
+        "indicator_name_short": "Beneficial ownership",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent is company beneficial ownership information available as structured open data?"
+    },
+    {
+        "indicator_id": "A.COMPANY.REG",
+        "slug": "",
+        "indicator_name": "Availability (CI): Company register",
+        "indicator_name_medium": "Company register data",
+        "indicator_name_short": "Company register",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent is company information available as structured open data?"
+    },
+    {
+        "indicator_id": "A.HEALTH.CRVS",
+        "slug": "",
+        "indicator_name": "Availability (H): Vital statistics",
+        "indicator_name_medium": "Vital statistics",
+        "indicator_name_short": "Vital statistics",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent is civil registration and vital statistics (CRVS) information available as open data?"
+    },
+    {
+        "indicator_id": "A.HEALTH.RTC",
+        "slug": "",
+        "indicator_name": "Availability (H): Real-time healthcare system capacity",
+        "indicator_name_medium": "Real time healthcare system data",
+        "indicator_name_short": "Real-time healthcare system capacity",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent is information about the real-time capacity of the healthcare system available as open data?"
+    },
+    {
+        "indicator_id": "A.HEALTH.VAC",
+        "slug": "",
+        "indicator_name": "Availability (H): Vaccination (COVID-19)",
+        "indicator_name_medium": "COVID-19 vaccination data",
+        "indicator_name_short": "COVID-19 vaccination",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent is COVID-19 vaccination information available as open data?"
+    },
+    {
+        "indicator_id": "A.LAND.ELU",
+        "slug": "",
+        "indicator_name": "Availability (L): Existing land use",
+        "indicator_name_medium": "Land use data",
+        "indicator_name_short": "Land use",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent is existing land use information available as open data?"
+    },
+    {
+        "indicator_id": "A.LAND.TENURE",
+        "slug": "",
+        "indicator_name": "Availability (L): Land tenure",
+        "indicator_name_medium": "Land tenure data",
+        "indicator_name_short": "Land tenure",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent is detailed and structured land tenure information available as open data?"
+    },
+    {
+        "indicator_id": "A.PF.BUDGETSPEND",
+        "slug": "",
+        "indicator_name": "Availability (PF): Budget and spend data",
+        "indicator_name_medium": "Budget and spend data",
+        "indicator_name_short": "Budget and spend",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent is government budget and spending information (budget execution) available as structured open data?"
+    },
+    {
+        "indicator_id": "A.PI.IAD",
+        "slug": "",
+        "indicator_name": "Availability (PI): Asset declarations",
+        "indicator_name_medium": "Assets declarations",
+        "indicator_name_short": "Assets declarations",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent is interest and asset declaration information available as open data?"
+    },
+    {
+        "indicator_id": "A.PI.LOBBY",
+        "slug": "",
+        "indicator_name": "Availability (PI): Lobbying data",
+        "indicator_name_medium": "Lobbying data",
+        "indicator_name_short": "Lobbying",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent is lobby register information available as open data?"
+    },
+    {
+        "indicator_id": "A.PI.POLFIN",
+        "slug": "",
+        "indicator_name": "Availability (PI): Political finance data",
+        "indicator_name_medium": "Political finance data",
+        "indicator_name_short": "Political finance",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent is political finance information available as open data?"
+    },
+    {
+        "indicator_id": "A.PI.RTI",
+        "slug": "",
+        "indicator_name": "Availability (PI): RTI performance data",
+        "indicator_name_medium": "RTI performance data",
+        "indicator_name_short": "RTI performance",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent is detailed RTI performance information available as open data?"
+    },
+    {
+        "indicator_id": "A.PI.PUBCON",
+        "slug": "",
+        "indicator_name": "Availability (PI): Public consultation data",
+        "indicator_name_medium": "Public consultation data",
+        "indicator_name_short": "Public consultation",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent is public consultation information available as open data?"
+    },
+    {
+        "indicator_id": "A.PROCUREMENT.OC",
+        "slug": "",
+        "indicator_name": "Availability (PP): Public procurement data",
+        "indicator_name_medium": "Procurement data",
+        "indicator_name_short": "Public procurement",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent is detailed structured data on public procurement processes available as open data?"
+    },
+    {
+        "indicator_id": "C.CAPABILITIES.GOVSUPPORT",
+        "slug": "",
+        "indicator_name": "Capability (C): Government support for re-use",
+        "indicator_name_medium": "Support for re-use",
+        "indicator_name_short": "Support for re-use",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent is there evidence that government is providing support for data re-use? "
+    },
+    {
+        "indicator_id": "C.CAPABILITIES.ODINIT",
+        "slug": "",
+        "indicator_name": "Capability (C): Open data initiative",
+        "indicator_name_medium": "Open data initiative",
+        "indicator_name_short": "Open data initiative",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent is there a well-resourced open government data initiative in the country?"
+    },
+    {
+        "indicator_id": "C.CAPABILITIES.SUBNAT",
+        "slug": "",
+        "indicator_name": "Capability (C): Sub-national",
+        "indicator_name_medium": "Sub-national capabilities",
+        "indicator_name_short": "Sub-national capabilities",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent do cities, regional, and local governments have capacity to effectively manage data?"
+    },
+    {
+        "indicator_id": "C.CAPABILITIES.TRAIN",
+        "slug": "",
+        "indicator_name": "Capability(C): Civil service",
+        "indicator_name_medium": "Civil service trianing",
+        "indicator_name_short": "Civil service trianing",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent is government providing training to civil servants on data literacy and skills?"
+    },
+    {
+        "indicator_id": "C.PI.INTEROP",
+        "slug": "",
+        "indicator_name": "Capability (PI): Political integrity interoperability",
+        "indicator_name_medium": "Political integrity interoperability",
+        "indicator_name_short": "Political integrity interoperability",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent is political integrity data interoperable across different political integrity datasets, as well as other datasets associated with relevant flows?"
+    },
+    {
+        "indicator_id": "G.COMPANY.BOT",
+        "slug": "",
+        "indicator_name": "Governance (CI): Beneficial ownership",
+        "indicator_name_medium": "Beneficial ownership  ",
+        "indicator_name_short": "Beneficial ownership frameworks",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent do relevant laws, regulations, policies, and guidance provide a basis for collecting and publishing beneficial ownership data on companies?"
+    },
+    {
+        "indicator_id": "G.GOVERNANCE.ACCESSIBILITY",
+        "slug": "",
+        "indicator_name": "Governance (G): Accessibility coverage & data",
+        "indicator_name_medium": "Data accesibility frameworks",
+        "indicator_name_short": "Data accesibility frameworks",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent do relevant laws, regulations, policies, and guidance require that data collection and publication be accessible to people with disabilities?"
+    },
+    {
+        "indicator_id": "G.GOVERNANCE.DATAMANAGE",
+        "slug": "",
+        "indicator_name": "Governance (G): Data management",
+        "indicator_name_medium": "Data management frameworks",
+        "indicator_name_short": "Data management frameworks",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent do relevant laws, regulations, policies, and guidance provide a comprehensive framework for consistent data management and publication? "
+    },
+    {
+        "indicator_id": "G.GOVERNANCE.DATASHARING",
+        "slug": "",
+        "indicator_name": "Governance (G): Data sharing frameworks",
+        "indicator_name_medium": "Data sharing frameworks",
+        "indicator_name_short": "Data sharing frameworks",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent do relevant laws, regulations, policies, and guidance provide a comprehensive framework for data sharing?"
+    },
+    {
+        "indicator_id": "G.GOVERNANCE.DPL",
+        "slug": "",
+        "indicator_name": "Governance (G): Data protection",
+        "indicator_name_medium": "Data protection law",
+        "indicator_name_short": "Data protection law",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent do relevant laws, regulations, policies, and guidance provide a comprehensive framework for protection of personal data?"
+    },
+    {
+        "indicator_id": "G.GOVERNANCE.LANG",
+        "slug": "",
+        "indicator_name": "Governance (G): Language coverage & data",
+        "indicator_name_medium": "Language and data governance",
+        "indicator_name_short": "Language and data governance",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent do relevant laws, regulations, policies, and guidance require that data collection and publication processes be available in the country\u2019s official or national languages? If the country has no official or national languages, are these processes available in the languages used in the country?"
+    },
+    {
+        "indicator_id": "G.GOVERNANCE.ODPOLICY",
+        "slug": "",
+        "indicator_name": "Governance (G): Open data policy",
+        "indicator_name_medium": "Open data policy",
+        "indicator_name_short": "Open data policy",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent do relevant laws, regulations, policies, and guidance provide a comprehensive framework for generating and publishing open data?"
+    },
+    {
+        "indicator_id": "G.PF.PUB-FINANCE",
+        "slug": "",
+        "indicator_name": "Governance (PF): Public finance data",
+        "indicator_name_medium": "Public finance frameworks",
+        "indicator_name_short": "Public finance frameworks",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent do relevant laws, regulations, policies, and guidance provide a basis for collecting and publishing data on public finances? (E.g., government budgets, government spending, debt, and borrowing.)"
+    },
+    {
+        "indicator_id": "G.PI.IAD",
+        "slug": "",
+        "indicator_name": "Governance (PI): Asset declarations",
+        "indicator_name_medium": "Assets declarations frameworks",
+        "indicator_name_short": "Assets declarations frameworks",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent do relevant laws, regulations, policies, and guidance provide a basis for collecting and publishing data on the interests and assets of public officials?"
+    },
+    {
+        "indicator_id": "G.PI.LOBBY",
+        "slug": "",
+        "indicator_name": "Governance (PI): Lobbying register",
+        "indicator_name_medium": "Lobbying frameworks",
+        "indicator_name_short": "Lobbying frameworks",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent do relevant laws, regulations, policies, and guidance provide a basis for collecting and publishing data on lobbying activities?"
+    },
+    {
+        "indicator_id": "G.PI.POLFIN",
+        "slug": "",
+        "indicator_name": "Governance (PI): Political finance",
+        "indicator_name_medium": "Political finance frameworks",
+        "indicator_name_short": "Political finance frameworks",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent do relevant laws, regulations, policies, and guidance provide a basis for collecting and publishing data on campaign and party finance?"
+    },
+    {
+        "indicator_id": "G.PI.PUBCON",
+        "slug": "",
+        "indicator_name": "Governance (PI): Public consultation data",
+        "indicator_name_medium": "Public consultation frameworks",
+        "indicator_name_short": "Public consultation frameworks",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent do relevant laws, regulations, policies, and guidance provide a basis for collecting and publishing data generated through and about public consultation on rulemaking?"
+    },
+    {
+        "indicator_id": "G.PI.RTI",
+        "slug": "",
+        "indicator_name": "Governance (PI): RTI performance",
+        "indicator_name_medium": "RTI performance frameworks",
+        "indicator_name_short": "RTI performance frameworks",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent do relevant laws, regulations, policies, and guidance provide a basis for collecting and publishing data on the performance of Right to Information (RTI) \/ Freedom of Information (FOI) processes?"
+    },
+    {
+        "indicator_id": "U.COMPANY.DUEDIL",
+        "slug": "",
+        "indicator_name": "Use (CI): Corporate due diligence",
+        "indicator_name_medium": "Due dilligence uses of data",
+        "indicator_name_short": "Due dilligence uses of data",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent do products or services exist that use open company data to support due diligence?"
+    },
+    {
+        "indicator_id": "U.LAND.GENDERINCLUSION",
+        "slug": "",
+        "indicator_name": "Use (L): Influencing policy for gender and inclusion",
+        "indicator_name_medium": "Gender and inclusion uses of data",
+        "indicator_name_short": "Gender and inclusion uses of data",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent is there evidence that land data is being used to influence policy in the interests of more equitable land tenure and use?"
+    },
+    {
+        "indicator_id": "U.PI.ACCOUNT",
+        "slug": "",
+        "indicator_name": "Use (PI): Accountability uses of PI",
+        "indicator_name_medium": "Accountability uses of data",
+        "indicator_name_short": "Accountability uses of data",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent is there evidence of political integrity data being used to identify, expose, or highlight failures of government?"
+    },
+    {
+        "indicator_id": "U.PROCUREMENT.ANALYTICS",
+        "slug": "",
+        "indicator_name": "Use (PP): Procurement data analytics",
+        "indicator_name_medium": "Procurement analytics",
+        "indicator_name_short": "Procurement analytics",
+        "type": "indicator",
+        "subtype": "primary",
+        "question": "To what extent is there evidence of government procurement data being analysed to improve procurement practice?"
+    },
+    {
+        "indicator_id": "G.PI.RTIF",
+        "slug": "",
+        "indicator_name": "Governance (PI): RTI frameworks",
+        "indicator_name_medium": "RTI frameworks",
+        "indicator_name_short": "RTI frameworks",
+        "type": "indicator",
+        "subtype": "secondary"
+    },
+    {
+        "indicator_id": "C.CAPABILITIES.ONLINESERV",
+        "slug": "",
+        "indicator_name": "Capability (C): Government online services",
+        "indicator_name_medium": "Gov. online services",
+        "indicator_name_short": "Gov. online services",
+        "type": "indicator",
+        "subtype": "secondary"
+    },
+    {
+        "indicator_id": "C.CAPABILITIES.PFREEDOM",
+        "slug": "",
+        "indicator_name": "Capability (C): Political freedoms and civil liberties",
+        "indicator_name_medium": "Freedoms and liberties",
+        "indicator_name_short": "Freedoms and liberties",
+        "type": "indicator",
+        "subtype": "secondary"
+    },
+    {
+        "indicator_id": "C.CAPABILITIES.HUMANCAP",
+        "slug": "",
+        "indicator_name": "Capability (C): Human capital",
+        "indicator_name_medium": "Human capital",
+        "indicator_name_short": "Human capital",
+        "type": "indicator",
+        "subtype": "secondary"
+    },
+    {
+        "indicator_id": "C.CAPABILITIES.DIGGOV",
+        "slug": "",
+        "indicator_name": "Capability (C): Digital Government",
+        "indicator_name_medium": "Digital government",
+        "indicator_name_short": "Digital government",
+        "type": "indicator",
+        "subtype": "secondary"
+    },
+    {
+        "indicator_id": "C.CAPABILITIES.DIGSKILLS",
+        "slug": "",
+        "indicator_name": "Capability (C): Digital skills",
+        "indicator_name_medium": "Digital skills",
+        "indicator_name_short": "Digital skills",
+        "type": "indicator",
+        "subtype": "secondary"
+    },
+    {
+        "indicator_id": "C.CAPABILITIES.DIGTOOLS",
+        "slug": "",
+        "indicator_name": "Capability (C): Business use of digital tools",
+        "indicator_name_medium": "Use of digital tools",
+        "indicator_name_short": "Use of digital tools",
+        "type": "indicator",
+        "subtype": "secondary"
+    },
+    {
+        "indicator_id": "C.CAPABILITIES.INTACCESS",
+        "slug": "",
+        "indicator_name": "Capability (C): Internet access",
+        "indicator_name_medium": "Internet access",
+        "indicator_name_short": "Internet access",
+        "type": "indicator",
+        "subtype": "secondary"
+    },
+    {
+        "indicator_id": "C.CAPABILITIES.DATAINST",
+        "slug": "",
+        "indicator_name": "Capability (C): Data institutions",
+        "indicator_name_medium": "Data institutions",
+        "indicator_name_short": "Data institutions",
+        "type": "indicator",
+        "subtype": "secondary"
+    },
+    {
+        "indicator_id": "C.CAPABILITIES.EMPLOY",
+        "slug": "",
+        "indicator_name": "Capability (C): Knowledge-intensive employment",
+        "indicator_name_medium": "Knowledge-intensive employment",
+        "indicator_name_short": "Knowledge-intensive employment",
+        "type": "indicator",
+        "subtype": "secondary"
+    },
+    {
+        "indicator_id": "C.CAPABILITIES.STANDARDS",
+        "slug": "",
+        "indicator_name": "Capability (C): Use of standards and methods in statistic offices",
+        "indicator_name_medium": "Use of standards in statistics",
+        "indicator_name_short": "Use of standards in statistics",
+        "type": "indicator",
+        "subtype": "secondary"
+    },
+    {
+        "indicator_id": "A.HEALTH.HSC",
+        "slug": "",
+        "indicator_name": "Availability (H): Healthcare system capacity",
+        "indicator_name_medium": "Healthcare system data",
+        "indicator_name_short": "Healthcare system",
+        "type": "indicator",
+        "subtype": "secondary"
+    },
+    {
+        "indicator_id": "A.HEALTH.TEST",
+        "slug": "",
+        "indicator_name": "Availability (H): Testing data (COVID-19)",
+        "indicator_name_medium": "COVID-19 testing data",
+        "indicator_name_short": "COVID-19 testing",
+        "type": "indicator",
+        "subtype": "secondary"
+    },
+    {
+        "indicator_id": "U.USE.INTERNATIONAL",
+        "slug": "",
+        "indicator_name": "Use (U): Data use by international organizations",
+        "indicator_name_medium": "International data re-use",
+        "indicator_name_short": "International data re-use",
+        "type": "indicator",
+        "subtype": "secondary"
+    },
+    {
+        "indicator_id": "SCORE",
+        "slug": "",
+        "indicator_name": "All modules",
+        "indicator_name_medium": "",
+        "indicator_name_short": "",
+        "type": "score"
+    },
+    {
+        "indicator_id": "A",
+        "slug": "",
+        "indicator_name": "Availability",
+        "indicator_name_medium": "",
+        "indicator_name_short": "",
+        "type": "pillar"
+    },
+    {
+        "indicator_id": "C",
+        "slug": "",
+        "indicator_name": "Capabilities",
+        "indicator_name_medium": "",
+        "indicator_name_short": "",
+        "type": "pillar"
+    },
+    {
+        "indicator_id": "G",
+        "slug": "",
+        "indicator_name": "Governance",
+        "indicator_name_medium": "",
+        "indicator_name_short": "",
+        "type": "pillar"
+    },
+    {
+        "indicator_id": "U",
+        "slug": "",
+        "indicator_name": "Use and impact",
+        "indicator_name_medium": "",
+        "indicator_name_short": "",
+        "type": "pillar"
+    },
+    {
+        "indicator_id": "LAND",
+        "slug": "land",
+        "indicator_name": "Land",
+        "indicator_name_medium": "",
+        "indicator_name_short": "",
+        "type": "module",
+        "subtype": "thematic"
+    },
+    {
+        "indicator_id": "CAPABILITIES",
+        "slug": "capabilities",
+        "indicator_name": "Capabilities",
+        "indicator_name_medium": "",
+        "indicator_name_short": "",
+        "type": "module",
+        "subtype": "core"
+    },
+    {
+        "indicator_id": "CLIMATE",
+        "slug": "climate",
+        "indicator_name": "Climate Action",
+        "indicator_name_medium": "",
+        "indicator_name_short": "",
+        "type": "module",
+        "subtype": "thematic"
+    },
+    {
+        "indicator_id": "COMPANY",
+        "slug": "company",
+        "indicator_name": "Company Information",
+        "indicator_name_medium": "",
+        "indicator_name_short": "",
+        "type": "module",
+        "subtype": "thematic"
+    },
+    {
+        "indicator_id": "GOVERNANCE",
+        "slug": "governance",
+        "indicator_name": "Governance",
+        "indicator_name_medium": "",
+        "indicator_name_short": "",
+        "type": "module",
+        "subtype": "core"
+    },
+    {
+        "indicator_id": "HEALTH",
+        "slug": "health-covid-19",
+        "indicator_name": "Health & Covid 19",
+        "indicator_name_medium": "",
+        "indicator_name_short": "",
+        "type": "module",
+        "subtype": "thematic"
+    },
+    {
+        "indicator_id": "PI",
+        "slug": "political-integrity",
+        "indicator_name": "Political Integrity",
+        "indicator_name_medium": "",
+        "indicator_name_short": "",
+        "type": "module",
+        "subtype": "thematic"
+    },
+    {
+        "indicator_id": "PROCUREMENT",
+        "slug": "procurement",
+        "indicator_name": "Public Procurement",
+        "indicator_name_medium": "",
+        "indicator_name_short": "",
+        "type": "module",
+        "subtype": "thematic"
+    },
+    {
+        "indicator_id": "PF",
+        "slug": "public-finance",
+        "indicator_name": "Public Finance",
+        "indicator_name_medium": "",
+        "indicator_name_short": "",
+        "type": "module",
+        "subtype": "thematic"
+    }
+]

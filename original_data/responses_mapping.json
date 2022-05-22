@@ -1,0 +1,498 @@
+[
+    {
+        "response_id": "0",
+        "response_text": "No"
+    },
+    {
+        "response_id": "1",
+        "response_text": "Yes"
+    },
+    {
+        "response_id": "2",
+        "response_text": "Partially"
+    },
+    {
+        "response_id": "3",
+        "response_text": "There is no evidence of data gaps."
+    },
+    {
+        "response_id": "4",
+        "response_text": "Data is available from government, or because of government actions."
+    },
+    {
+        "response_id": "5",
+        "response_text": "The data assessed provides national coverage."
+    },
+    {
+        "response_id": "6",
+        "response_text": "Data is not available online."
+    },
+    {
+        "response_id": "7",
+        "response_text": "They exist and are operational."
+    },
+    {
+        "response_id": "8",
+        "response_text": "They provide national coverage."
+    },
+    {
+        "response_id": "9",
+        "response_text": "There is no mention of data or the publication of data in relevant laws, policies, or guidance."
+    },
+    {
+        "response_id": "10",
+        "response_text": "A framework exists and has the force of law."
+    },
+    {
+        "response_id": "11",
+        "response_text": "There is evidence of widespread omissions in mandated data."
+    },
+    {
+        "response_id": "12",
+        "response_text": "Requirements to publish data are set out in binding policy, regulations, or law."
+    },
+    {
+        "response_id": "13",
+        "response_text": "No framework exists."
+    },
+    {
+        "response_id": "14",
+        "response_text": "A framework exists but lacks full force of law."
+    },
+    {
+        "response_id": "15",
+        "response_text": "There is evidence that a portion of mandated data is missing."
+    },
+    {
+        "response_id": "16",
+        "response_text": "There is a broader framework which can be presumed to apply to data."
+    },
+    {
+        "response_id": "17",
+        "response_text": "The framework assessed, or equivalent frameworks, apply across the whole country."
+    },
+    {
+        "response_id": "18",
+        "response_text": "The laws, regulations, policies or guidance assessed, or equivalent rules\/guidance, apply across the whole public sector including national, sub-national, and local government."
+    },
+    {
+        "response_id": "19",
+        "response_text": "Data is available, but not as a result of government action."
+    },
+    {
+        "response_id": "20",
+        "response_text": "The framework applies widely across all sectors (including public and private sector)."
+    },
+    {
+        "response_id": "21",
+        "response_text": "The framework covers the entire public sector."
+    },
+    {
+        "response_id": "22",
+        "response_text": "The datasets do not share common identifiers."
+    },
+    {
+        "response_id": "23",
+        "response_text": "It does not exist."
+    },
+    {
+        "response_id": "24",
+        "response_text": "There is evidence of an active government-led open government data initiative."
+    },
+    {
+        "response_id": "25",
+        "response_text": "The data assessed covers the majority of the public sector (including sub-national government, state-owned enterprises or corporations, and extrabudgetary funds; i.e., a consolidated dataset)."
+    },
+    {
+        "response_id": "26",
+        "response_text": "Requirements to publish this information as open data are set out in binding policy, regulations, or law."
+    },
+    {
+        "response_id": "27",
+        "response_text": "The data assessed covers, or is representative of the data available for, almost all public procurement."
+    },
+    {
+        "response_id": "28",
+        "response_text": "The relevant laws, policies and guidance assessed cover the majority of localities and government agencies."
+    },
+    {
+        "response_id": "29",
+        "response_text": "They cover the majority of limited companies in the country."
+    },
+    {
+        "response_id": "30",
+        "response_text": "There is no evidence of such products or services in the country."
+    },
+    {
+        "response_id": "31",
+        "response_text": "Requirements to publish data are set out in non-binding policy or guidance."
+    },
+    {
+        "response_id": "32",
+        "response_text": "Assessed trainings involve national public servants."
+    },
+    {
+        "response_id": "33",
+        "response_text": "No evidence of actors or entities using this data to influence policy in the interests of more equitable land tenure and use."
+    },
+    {
+        "response_id": "34",
+        "response_text": "The data management approaches assessed generally apply across the whole public sector."
+    },
+    {
+        "response_id": "35",
+        "response_text": "The training assessed is representative of the kind of training that can be found for all, or most, agencies or ministries."
+    },
+    {
+        "response_id": "36",
+        "response_text": "Support assessed is at national level."
+    },
+    {
+        "response_id": "37",
+        "response_text": "The framework does not require the disclosure, public or otherwise, of a donor's identity."
+    },
+    {
+        "response_id": "38",
+        "response_text": "The examples given are exceptions: the majority of cities and regions do not have the capacity to effectively manage data."
+    },
+    {
+        "response_id": "39",
+        "response_text": "The framework assessed covers all government agencies, and many themes."
+    },
+    {
+        "response_id": "40",
+        "response_text": "There is evidence of limited or ad-hoc capability to effectively manage data."
+    },
+    {
+        "response_id": "41",
+        "response_text": "The data assessed covers one or more localities, but there are many other localities without available data, or with data of a lesser quality."
+    },
+    {
+        "response_id": "42",
+        "response_text": "They are being drafted, or are not yet implemented."
+    },
+    {
+        "response_id": "43",
+        "response_text": "The open data initiatives covers much of both national and sub-national government."
+    },
+    {
+        "response_id": "44",
+        "response_text": "There is evidence of isolated uses or pilot projects."
+    },
+    {
+        "response_id": "45",
+        "response_text": "The framework requires the public disclosure of the identity of every donor."
+    },
+    {
+        "response_id": "46",
+        "response_text": "There are isolated cases of actors or entities using this kind of data for accountability purposes, though the source may not be open data."
+    },
+    {
+        "response_id": "47",
+        "response_text": "No evidence of actors or entities using this data for accountability purposes."
+    },
+    {
+        "response_id": "48",
+        "response_text": "There is isolated evidence of government supporting and encouraging data reuse."
+    },
+    {
+        "response_id": "49",
+        "response_text": "There is no evidence of capability to effectively manage data."
+    },
+    {
+        "response_id": "50",
+        "response_text": "There is some evidence of government  supporting civil servants training on data matters, as part of a planned and sustainable strategy."
+    },
+    {
+        "response_id": "51",
+        "response_text": "The data covers the majority of registered companies in the country."
+    },
+    {
+        "response_id": "52",
+        "response_text": "There are isolated cases of actors or entities using this kind of data to influence policy in the interests of more equitable land tenure and use."
+    },
+    {
+        "response_id": "53",
+        "response_text": "The datasets available cover all forms of land tenure in the country."
+    },
+    {
+        "response_id": "54",
+        "response_text": "The data assessed covers one or more localities, and is a representative example of the kind of data that can be found for most but not all localities."
+    },
+    {
+        "response_id": "55",
+        "response_text": "There is no evidence of this use."
+    },
+    {
+        "response_id": "56",
+        "response_text": "There is no consistency of identifiers or identification systems."
+    },
+    {
+        "response_id": "57",
+        "response_text": "There is isolated evidence of government supporting civil servants training on data matters."
+    },
+    {
+        "response_id": "58",
+        "response_text": "There is no evidence of government supporting and encouraging data reuse."
+    },
+    {
+        "response_id": "59",
+        "response_text": "The training assessed is available to one or more agencies or ministries, but there are many other agencies or ministries without such training."
+    },
+    {
+        "response_id": "60",
+        "response_text": "There is evidence of multiple different uses involving different organisations."
+    },
+    {
+        "response_id": "61",
+        "response_text": "One or more products\/services exist, but they do not appear to make use of open datasets."
+    },
+    {
+        "response_id": "62",
+        "response_text": "There has been a government-led open government data initiative, but there is limited evidence of recent activity."
+    },
+    {
+        "response_id": "63",
+        "response_text": "The datasets use a limited number of common identifiers."
+    },
+    {
+        "response_id": "64",
+        "response_text": "There is evidence of sustained and institutionalized capability to manage data."
+    },
+    {
+        "response_id": "65",
+        "response_text": "The open data initiative covers much of the national government, and there are similar initiatives in many sub-national areas."
+    },
+    {
+        "response_id": "66",
+        "response_text": "There is widespread and regular evidence of government supporting civil servants training on data matters, as part of a planned and sustainable strategy."
+    },
+    {
+        "response_id": "67",
+        "response_text": "There is some evidence of government supporting and encouraging data reuse."
+    },
+    {
+        "response_id": "68",
+        "response_text": "No cities or regions show capacity to effectively manage data."
+    },
+    {
+        "response_id": "69",
+        "response_text": "There are a number of cases of actors or entities using this kind of open data for accountability purposes."
+    },
+    {
+        "response_id": "70",
+        "response_text": "The data management approaches assessed apply to a limited number of departments or localities."
+    },
+    {
+        "response_id": "71",
+        "response_text": "The examples given represent common practice: many cities or regions have comparable capacity to effectively manage data."
+    },
+    {
+        "response_id": "72",
+        "response_text": "There is widespread and regular evidence of government supporting and encouraging data reuse, framed by a long-term strategy."
+    },
+    {
+        "response_id": "73",
+        "response_text": "Support is given in one or more localities, but there are many other localities without such support, or with support of a lesser quality."
+    },
+    {
+        "response_id": "74",
+        "response_text": "The datasets available cover a big proportion of land tenure in the country, but not all."
+    },
+    {
+        "response_id": "75",
+        "response_text": "The framework requires the public disclosure of the identity of any donor who contributes above a defined threshold."
+    },
+    {
+        "response_id": "76",
+        "response_text": "There is no evidence of government supporting civil servants training on data matters."
+    },
+    {
+        "response_id": "77",
+        "response_text": "There is either a dedicated framework for language coverage related to data or a framework that includes specific provisions related to language coverage and data."
+    },
+    {
+        "response_id": "78",
+        "response_text": "There are a number of cases of actors or entities using this kind of data to influence policy in the interests of more equitable land tenure and use."
+    },
+    {
+        "response_id": "79",
+        "response_text": "There is either a dedicated framework for accessibility coverage related to data or a framework that includes specific provisions related to accessibility coverage and data."
+    },
+    {
+        "response_id": "80",
+        "response_text": "The data assessed covers one or more national government agencies,, and there is similar data available for the majority of the public sector (including sub-national government, state-owned enterprises or corporations, and extrabudgetary funds)."
+    },
+    {
+        "response_id": "81",
+        "response_text": "There is minimal consistency; at least one category of identifiers is consistent across two datasets."
+    },
+    {
+        "response_id": "82",
+        "response_text": "The data assessed covers, or is representative of the data available for, a large proportion of public procurement but some gaps in coverage exist."
+    },
+    {
+        "response_id": "83",
+        "response_text": "The framework assessed covers a substantial number of government agencies or themes."
+    },
+    {
+        "response_id": "84",
+        "response_text": "The open data initiative covers only a limited part of the national government, or only covers one or more sub-national governments."
+    },
+    {
+        "response_id": "85",
+        "response_text": "They cover a limited number of localities or companies (e.g., only companies operating in a single sector or in a single sub-national jurisdiction\/state)."
+    },
+    {
+        "response_id": "86",
+        "response_text": "Assessed training involves sub-national or local public servants of one or more localities, but there are many other localities without such trainings."
+    },
+    {
+        "response_id": "87",
+        "response_text": "One or more products\/services exist using making use of official open government datasets."
+    },
+    {
+        "response_id": "88",
+        "response_text": "The framework assessed covers only some selected parts of national or local government."
+    },
+    {
+        "response_id": "89",
+        "response_text": "The data covers companies from a single economic sector (e.g., extractives industry) and there is minimal beneficial ownership data available from other sectors."
+    },
+    {
+        "response_id": "90",
+        "response_text": "The laws, policies and guidance assessed cover a limited number of localities or government agencies."
+    },
+    {
+        "response_id": "91",
+        "response_text": "The framework applies widely in one or more sectors."
+    },
+    {
+        "response_id": "92",
+        "response_text": "They cover one or more localities, but there are many other localities without such rules\/guidance, or with rules or guidance of a lesser quality."
+    },
+    {
+        "response_id": "93",
+        "response_text": "The open data initiative covers only a limited part of the national government, but there are similar initiatives for many other parts of government."
+    },
+    {
+        "response_id": "94",
+        "response_text": "Assessed trainings involve sub-national or local public servants, and are representative examples of the kind of trainings that can be found for all, or most, localities."
+    },
+    {
+        "response_id": "95",
+        "response_text": "The datasets available cover a small proportion of land tenure in the country."
+    },
+    {
+        "response_id": "96",
+        "response_text": "There is no evidence of any government-led open government data initiative in the country."
+    },
+    {
+        "response_id": "97",
+        "response_text": "There is partial consistency; several categories of identifiers are consistent across multiple datasets or whole identification systems are consistent across at least two datasets."
+    },
+    {
+        "response_id": "98",
+        "response_text": "They cover one or more localities and are a representative example of the kind of rules\/guidance that can be found for all, or most, localities."
+    },
+    {
+        "response_id": "99",
+        "response_text": "They cover, or are representative of those covering, many localities or companies."
+    },
+    {
+        "response_id": "100",
+        "response_text": "The data management approaches assessed apply to a limited number of departments or localities, but similar approaches are present across much of the public sector."
+    },
+    {
+        "response_id": "101",
+        "response_text": "The data assessed covers a very limited number of public procurements and few other sources of data are available."
+    },
+    {
+        "response_id": "102",
+        "response_text": "The data assessed covers one or more national government agencies, but there are many agencies or local government units without data available."
+    },
+    {
+        "response_id": "103",
+        "response_text": "The data assessed covers, or is representative of the data available for, a significant number of public procurements but there are large gaps in coverage."
+    },
+    {
+        "response_id": "104",
+        "response_text": "The framework assessed covers a very limited number of government agencies or themes, and no other relevant frameworks could be located."
+    },
+    {
+        "response_id": "105",
+        "response_text": "The framework assessed covers the national government, but may have some exceptions or may not apply to other levels of government."
+    },
+    {
+        "response_id": "106",
+        "response_text": "There is evidence that these uses are widespread, regular and embedded."
+    },
+    {
+        "response_id": "107",
+        "response_text": "One or more products\/services exist making use of open government datasets, and there is evidence of their widespread use."
+    },
+    {
+        "response_id": "108",
+        "response_text": "There are widespread and regular cases of actors or entities using this kind of open data for accountability purposes."
+    },
+    {
+        "response_id": "109",
+        "response_text": "The framework assessed covers the national government, but some positions, agencies, or branches may be exempt or the framework may not apply to other levels of government."
+    },
+    {
+        "response_id": "110",
+        "response_text": "They cover one or more central government agencies, but there are similar rules\/guidance that apply to many other agencies and\/or local government units."
+    },
+    {
+        "response_id": "111",
+        "response_text": "The relevant laws, policies and guidance assessed cover, or are representative of those covering, many localities or government agencies."
+    },
+    {
+        "response_id": "112",
+        "response_text": "The data assessed covers one or more national government agencies and there is similar data available for most other parts of national government."
+    },
+    {
+        "response_id": "113",
+        "response_text": "Support is given in one or more localities and is a representative example of the kind of support that can be found for all, or most, localities."
+    },
+    {
+        "response_id": "114",
+        "response_text": "The framework only applies in a narrow set of situations."
+    },
+    {
+        "response_id": "115",
+        "response_text": "The data covers, or is representative of, the kind of data that cover, companies involved in a number of different sectors (e.g., extractives, government procurement, financial markets)."
+    },
+    {
+        "response_id": "116",
+        "response_text": "They cover one or more central government agencies, but there are many agencies or local government units with weaker rules\/guidance."
+    },
+    {
+        "response_id": "117",
+        "response_text": "The datasets of this theme consistently use common identifiers."
+    },
+    {
+        "response_id": "118",
+        "response_text": "The framework assessed covers a limited number of government agencies or themes, but there are other similar examples covering different agencies and themes."
+    },
+    {
+        "response_id": "119",
+        "response_text": "There are widespread and regular cases of actors or entities using this kind of data to influence policy in the interests of more equitable land tenure and use."
+    },
+    {
+        "response_id": "120",
+        "response_text": "The framework assessed applies only to one sub-national region or city."
+    },
+    {
+        "response_id": "121",
+        "response_text": "There is strong consistency; all of almost all of the element categories that appear in more than one dataset use consistent identifiers and identification systems."
+    },
+    {
+        "response_id": "122",
+        "response_text": "The datasets of this theme consistently use common identifiers and share common identifiers with relevant datasets in other themes."
+    },
+    {
+        "response_id": "123",
+        "response_text": "They only apply in a narrow set of situations."
+    }
+]

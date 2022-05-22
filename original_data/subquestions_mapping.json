@@ -1,0 +1,1218 @@
+[
+    {
+        "subquestion_id": "0",
+        "subquestion_text": "There are accessible and open official tools available to help users explore data."
+    },
+    {
+        "subquestion_id": "1",
+        "subquestion_text": "Is this data available online in any form?"
+    },
+    {
+        "subquestion_id": "2",
+        "subquestion_text": "The machine-readable dataset is available as a whole"
+    },
+    {
+        "subquestion_id": "3",
+        "subquestion_text": "Data is provided in machine-readable format(s)"
+    },
+    {
+        "subquestion_id": "4",
+        "subquestion_text": "Historical data is available that allows users to track change over time."
+    },
+    {
+        "subquestion_id": "5",
+        "subquestion_text": "Data is available in all the country\u2019s official or national languages. If the country has no official or national languages, data is available in the major languages of the country."
+    },
+    {
+        "subquestion_id": "6",
+        "subquestion_text": "Data is openly licensed."
+    },
+    {
+        "subquestion_id": "7",
+        "subquestion_text": "Dataset is available free of charge."
+    },
+    {
+        "subquestion_id": "8",
+        "subquestion_text": "This information is missing required data."
+    },
+    {
+        "subquestion_id": "9",
+        "subquestion_text": "Data is timely and updated."
+    },
+    {
+        "subquestion_id": "10",
+        "subquestion_text": "How comprehensive is the data assessed for this question?"
+    },
+    {
+        "subquestion_id": "11",
+        "subquestion_text": "The availability of this data has been affected by government response to COVID-19."
+    },
+    {
+        "subquestion_id": "12",
+        "subquestion_text": "The framework requires a verification process."
+    },
+    {
+        "subquestion_id": "13",
+        "subquestion_text": "The rules\/guidance empower an agency or official to ensure the accurate and timely collection and publication of required data."
+    },
+    {
+        "subquestion_id": "14",
+        "subquestion_text": "Do relevant laws, policies, regulations, or guidance discuss the publication of open data?"
+    },
+    {
+        "subquestion_id": "15",
+        "subquestion_text": "Are there laws, policies, or regulations requiring collection or publication of this information in any form?"
+    },
+    {
+        "subquestion_id": "16",
+        "subquestion_text": "The rules\/guidance support the collection of structured data."
+    },
+    {
+        "subquestion_id": "17",
+        "subquestion_text": "The rules\/guidance require that data is regularly updated."
+    },
+    {
+        "subquestion_id": "18",
+        "subquestion_text": "How comprehensive, in terms of jurisdiction, is the coverage of the laws, regulations, policies, or guidance assessed for this question?"
+    },
+    {
+        "subquestion_id": "19",
+        "subquestion_text": "What is the nature of the framework?"
+    },
+    {
+        "subquestion_id": "20",
+        "subquestion_text": "At least one of the examples identified describes using artificial Intelligence or machine learning to process data"
+    },
+    {
+        "subquestion_id": "21",
+        "subquestion_text": "There is evidence that these uses have had or are having meaningful positive impacts."
+    },
+    {
+        "subquestion_id": "22",
+        "subquestion_text": "The data is published according to one or more relevant data standards."
+    },
+    {
+        "subquestion_id": "23",
+        "subquestion_text": "Data includes information about individuals' sex and\/or gender."
+    },
+    {
+        "subquestion_id": "24",
+        "subquestion_text": "Where does this requirement exist?"
+    },
+    {
+        "subquestion_id": "25",
+        "subquestion_text": "The framework requires collecting specific information on in-kind and non-financial support."
+    },
+    {
+        "subquestion_id": "26",
+        "subquestion_text": "The framework requires collecting specific information on assets and liabilities."
+    },
+    {
+        "subquestion_id": "27",
+        "subquestion_text": "A mechanism allows additional actors to contribute to the data repository."
+    },
+    {
+        "subquestion_id": "28",
+        "subquestion_text": "The dataset contains unique identifiers for each company."
+    },
+    {
+        "subquestion_id": "29",
+        "subquestion_text": "Civil society organizations regularly use this data for accountability purposes."
+    },
+    {
+        "subquestion_id": "30",
+        "subquestion_text": "Is there evidence of this data being used for accountability purposes?"
+    },
+    {
+        "subquestion_id": "31",
+        "subquestion_text": "The rules\/guidance require the approved or enacted budget to be provided as structured data."
+    },
+    {
+        "subquestion_id": "32",
+        "subquestion_text": "The media regularly uses this data for accountability purposes."
+    },
+    {
+        "subquestion_id": "33",
+        "subquestion_text": "Scholars or academic institutions regularly use this data for accountability purposes."
+    },
+    {
+        "subquestion_id": "34",
+        "subquestion_text": "To what degree do the datasets associated with this theme use consistent identifiers and identification systems for elements that appear in more than one dataset?"
+    },
+    {
+        "subquestion_id": "35",
+        "subquestion_text": "The private sector regularly uses this data for accountability purposes."
+    },
+    {
+        "subquestion_id": "36",
+        "subquestion_text": "The key datasets for the political integrity and public procurement modules share common identifiers that facilitate mapping flows across the data ecosystem."
+    },
+    {
+        "subquestion_id": "37",
+        "subquestion_text": "Summary reports must be provided as structured data."
+    },
+    {
+        "subquestion_id": "38",
+        "subquestion_text": "The key datasets for the political integrity and public finance modules share common identifiers that facilitate mapping flows across the data ecosystem."
+    },
+    {
+        "subquestion_id": "39",
+        "subquestion_text": "Expenditure information at the most disaggregated level of the economic classification must be provided as structured data."
+    },
+    {
+        "subquestion_id": "40",
+        "subquestion_text": "The rules\/guidance require executive budget proposal information to be provided as structured data."
+    },
+    {
+        "subquestion_id": "41",
+        "subquestion_text": "The key datasets for the political integrity and land modules share common identifiers that facilitate mapping flows across the data ecosystem."
+    },
+    {
+        "subquestion_id": "42",
+        "subquestion_text": "Birth information includes data about live-birth order and interval between last and previous live births to mother."
+    },
+    {
+        "subquestion_id": "43",
+        "subquestion_text": "The rules\/guidance require year-end reports as structured data."
+    },
+    {
+        "subquestion_id": "44",
+        "subquestion_text": "The rules\/guidance require in-year reports as structured data."
+    },
+    {
+        "subquestion_id": "45",
+        "subquestion_text": "The various datasets share common identifiers for legal persons associated with donations, interests, assets, liabilities, and lobbying activities."
+    },
+    {
+        "subquestion_id": "46",
+        "subquestion_text": "How comprehensive is the coverage of laws, regulations, policies, or guidance assessed for this question?"
+    },
+    {
+        "subquestion_id": "47",
+        "subquestion_text": "There is structured data available on the executive budget proposal in gross terms, including spending on annual and multi-annual investment projects."
+    },
+    {
+        "subquestion_id": "48",
+        "subquestion_text": "There is structured data available on amended budgets (when applicable) or amendments of the enacted budget."
+    },
+    {
+        "subquestion_id": "49",
+        "subquestion_text": "There is structured data available on the approved or enacted budget in gross terms, including spending on annual and multi-annual investment projects."
+    },
+    {
+        "subquestion_id": "50",
+        "subquestion_text": "There is structured data about government budget execution or spending, in gross terms and on an accrual basis, including spending in annual and multi-annual investment projects."
+    },
+    {
+        "subquestion_id": "51",
+        "subquestion_text": "There is structured data about the government's extrabudgetary funds spending, in gross terms and on an accrual basis."
+    },
+    {
+        "subquestion_id": "52",
+        "subquestion_text": "There is structured data about the government's social security spending, in gross terms and on an accrual basis."
+    },
+    {
+        "subquestion_id": "53",
+        "subquestion_text": "There is structured data about public corporations' spending, in gross terms and on an accrual basis."
+    },
+    {
+        "subquestion_id": "54",
+        "subquestion_text": "The data includes information about vaccination for residents of long-term care facilities."
+    },
+    {
+        "subquestion_id": "55",
+        "subquestion_text": "The data includes information about membership in a marginalized population among the people who have been vaccinated."
+    },
+    {
+        "subquestion_id": "56",
+        "subquestion_text": "The data includes information about the disability status of the people who have been vaccinated."
+    },
+    {
+        "subquestion_id": "57",
+        "subquestion_text": "The data includes information about the sex and\/or gender of the people who have been vaccinated."
+    },
+    {
+        "subquestion_id": "58",
+        "subquestion_text": "The key datasets for the political integrity and company information modules share common identifiers that facilitate mapping flows across the data ecosystem."
+    },
+    {
+        "subquestion_id": "59",
+        "subquestion_text": "Lobbying data and political finance data share common identifiers for lobbyist clients and party and campaign donors."
+    },
+    {
+        "subquestion_id": "60",
+        "subquestion_text": "Asset declarations and political finance disclosures share common identifiers for interests, assets, and liabilities."
+    },
+    {
+        "subquestion_id": "61",
+        "subquestion_text": "The framework requires the publication of proposed regulations."
+    },
+    {
+        "subquestion_id": "62",
+        "subquestion_text": "The data includes a full set of public comments generated through public consultation processes."
+    },
+    {
+        "subquestion_id": "63",
+        "subquestion_text": "The data includes proposed regulations."
+    },
+    {
+        "subquestion_id": "64",
+        "subquestion_text": "The framework requires the publication of challenges to laws and regulations that have undergone public consultation processes, as well as their results."
+    },
+    {
+        "subquestion_id": "65",
+        "subquestion_text": "The framework requires the publication of final regulations and justification."
+    },
+    {
+        "subquestion_id": "66",
+        "subquestion_text": "The framework requires reasoned responses to be published alongside comments."
+    },
+    {
+        "subquestion_id": "67",
+        "subquestion_text": "The framework requires the timely publication of a full set of public comments generated through public consultation processes."
+    },
+    {
+        "subquestion_id": "68",
+        "subquestion_text": "The framework requires the publication of notice of intent in advance of public consultation processes."
+    },
+    {
+        "subquestion_id": "69",
+        "subquestion_text": "The data includes final regulations and justifications."
+    },
+    {
+        "subquestion_id": "70",
+        "subquestion_text": "The data contains information about the money spent on each interaction between a lobbyist and a public official."
+    },
+    {
+        "subquestion_id": "71",
+        "subquestion_text": "The data contains information about the topic of each interaction between a lobbyist and a public official."
+    },
+    {
+        "subquestion_id": "72",
+        "subquestion_text": "The data contains dates and time details for each interaction between a lobbyist and a public official."
+    },
+    {
+        "subquestion_id": "73",
+        "subquestion_text": "The data contains information about lobbyists' goals for lobbying activities."
+    },
+    {
+        "subquestion_id": "74",
+        "subquestion_text": "The data contains participant details for each interaction between a lobbyist and a public official."
+    },
+    {
+        "subquestion_id": "75",
+        "subquestion_text": "The data contains clear identifying information for each lobbying client."
+    },
+    {
+        "subquestion_id": "76",
+        "subquestion_text": "The data includes supporting information, such as notices of intent and reasoned responses."
+    },
+    {
+        "subquestion_id": "77",
+        "subquestion_text": "The data includes details of challenges to regulations that have passed through public consultation processes, as well as the results of these challenges."
+    },
+    {
+        "subquestion_id": "78",
+        "subquestion_text": "Lobbying registers and public consultation data use common identifiers for regulations."
+    },
+    {
+        "subquestion_id": "79",
+        "subquestion_text": "The dataset includes details about material withheld and the reasons for withholding it."
+    },
+    {
+        "subquestion_id": "80",
+        "subquestion_text": "The data includes information about the geographic distribution of vaccinations."
+    },
+    {
+        "subquestion_id": "81",
+        "subquestion_text": "The different political integrity datasets use common identifiers for public officials."
+    },
+    {
+        "subquestion_id": "82",
+        "subquestion_text": "The key datasets for this theme share common identifiers that facilitate mapping flows across the data ecosystem."
+    },
+    {
+        "subquestion_id": "83",
+        "subquestion_text": "There is evidence that datasets share common identifiers."
+    },
+    {
+        "subquestion_id": "84",
+        "subquestion_text": "Data is linked to the relevant agency, department, or other governmental entity."
+    },
+    {
+        "subquestion_id": "85",
+        "subquestion_text": "The dataset includes details about appeals to RTI determinations and their results."
+    },
+    {
+        "subquestion_id": "86",
+        "subquestion_text": "The dataset includes details on how long it took the relevant government agency or agencies to fill requests."
+    },
+    {
+        "subquestion_id": "87",
+        "subquestion_text": "The framework requires the collection and publication of data regarding the number of requests submitted and processed."
+    },
+    {
+        "subquestion_id": "88",
+        "subquestion_text": "The dataset includes details on the number of requests submitted and processed."
+    },
+    {
+        "subquestion_id": "89",
+        "subquestion_text": "How comprehensive, in terms of jurisdiction, is the framework assessed for this question? "
+    },
+    {
+        "subquestion_id": "90",
+        "subquestion_text": "The framework requires that information is linked to the relevant agency, department, or other governmental entity."
+    },
+    {
+        "subquestion_id": "91",
+        "subquestion_text": "The framework requires the collection and publication of data regarding appeals to RTI determinations and their results."
+    },
+    {
+        "subquestion_id": "92",
+        "subquestion_text": "The framework requires the collection and publication of data regarding material withheld and the reasons for withholding it."
+    },
+    {
+        "subquestion_id": "93",
+        "subquestion_text": "The framework requires the collection and publication of data regarding how long it took the relevant government agency or agencies to fill requests."
+    },
+    {
+        "subquestion_id": "94",
+        "subquestion_text": "The data includes information about the age of the people who have been vaccinated."
+    },
+    {
+        "subquestion_id": "95",
+        "subquestion_text": "The data includes detailed information about the number, type, and availability of COVID-19 vaccines."
+    },
+    {
+        "subquestion_id": "96",
+        "subquestion_text": "The data includes specific details on vaccine supply and administration, such as number of doses in possession and of what type, number of doses administered (this may be broken into partial and complete vaccination), and percent of total doses administered."
+    },
+    {
+        "subquestion_id": "97",
+        "subquestion_text": "Emissions data includes, or site where emissions data is made available links to, details of land use effects on emissions."
+    },
+    {
+        "subquestion_id": "98",
+        "subquestion_text": "Data includes fish."
+    },
+    {
+        "subquestion_id": "99",
+        "subquestion_text": "Data includes amphibians."
+    },
+    {
+        "subquestion_id": "100",
+        "subquestion_text": "Data includes reptiles."
+    },
+    {
+        "subquestion_id": "101",
+        "subquestion_text": "Data includes birds."
+    },
+    {
+        "subquestion_id": "102",
+        "subquestion_text": "Data includes mammals."
+    },
+    {
+        "subquestion_id": "103",
+        "subquestion_text": "The dataset contains unique identifiers for greenhouse gas emissions that allow easy assessment across inventories, reduction commitments, and sources."
+    },
+    {
+        "subquestion_id": "104",
+        "subquestion_text": "Data contains detailed information on sources of greenhouse gas emissions."
+    },
+    {
+        "subquestion_id": "105",
+        "subquestion_text": "There is evidence that government procurement data is being analyzed to improve access to procurement opportunities for marginalized groups."
+    },
+    {
+        "subquestion_id": "106",
+        "subquestion_text": "Nationally published data includes detailed information on greenhouse gas emissions and targets reported to the UNFCCC."
+    },
+    {
+        "subquestion_id": "107",
+        "subquestion_text": "At least one of the examples identified makes use of open beneficial ownership data."
+    },
+    {
+        "subquestion_id": "108",
+        "subquestion_text": "At least one of the examples cited appears to make use of open procurement data."
+    },
+    {
+        "subquestion_id": "109",
+        "subquestion_text": "There is evidence of private sector using data in this way"
+    },
+    {
+        "subquestion_id": "110",
+        "subquestion_text": "There are examples of civil society using data in these ways."
+    },
+    {
+        "subquestion_id": "111",
+        "subquestion_text": "There are examples of government using data in these ways."
+    },
+    {
+        "subquestion_id": "112",
+        "subquestion_text": "Data includes invertebrates."
+    },
+    {
+        "subquestion_id": "113",
+        "subquestion_text": "Data includes fungi and lichen."
+    },
+    {
+        "subquestion_id": "114",
+        "subquestion_text": "Data includes non-vascular plants."
+    },
+    {
+        "subquestion_id": "115",
+        "subquestion_text": "Data includes vascular plants."
+    },
+    {
+        "subquestion_id": "116",
+        "subquestion_text": "Data includes a \"green\" list, or detailed information on species or ecosystems recovering from danger, threat, or vulnerability."
+    },
+    {
+        "subquestion_id": "117",
+        "subquestion_text": "Data is nationally validated by the government."
+    },
+    {
+        "subquestion_id": "118",
+        "subquestion_text": "Limitations of the data are clearly stated."
+    },
+    {
+        "subquestion_id": "119",
+        "subquestion_text": "Birth information includes data about age, educational attainment, and ethnic and\/or national group of mother."
+    },
+    {
+        "subquestion_id": "120",
+        "subquestion_text": "Birth information includes data about place of registration and month of registration."
+    },
+    {
+        "subquestion_id": "121",
+        "subquestion_text": "The data contains information on future natural hazards, extreme weather events, and climate variability."
+    },
+    {
+        "subquestion_id": "122",
+        "subquestion_text": "The data contains information on poverty, gender, and marginalized populations."
+    },
+    {
+        "subquestion_id": "123",
+        "subquestion_text": "The data draws on granular local information."
+    },
+    {
+        "subquestion_id": "124",
+        "subquestion_text": "Data based on projections draws on transparent and open models."
+    },
+    {
+        "subquestion_id": "125",
+        "subquestion_text": "The data includes information on data limitations, specifically on the completeness of vital statistics in different provinces, counties, or regions of the country."
+    },
+    {
+        "subquestion_id": "126",
+        "subquestion_text": "Cause of death is standardized to the International Classification of Causes of Death (ICD) or a related, fully interoperable standard."
+    },
+    {
+        "subquestion_id": "127",
+        "subquestion_text": "Birth information includes data about place of occurrence, place of usual residence of mother, and month of occurrence."
+    },
+    {
+        "subquestion_id": "128",
+        "subquestion_text": "Mortality information includes data about age, sex and\/or gender, geographic location, and cause of death."
+    },
+    {
+        "subquestion_id": "129",
+        "subquestion_text": "There is evidence of government procurement data being analysed to support sustainable \/ environmental procurement."
+    },
+    {
+        "subquestion_id": "130",
+        "subquestion_text": "There is evidence of government procurement data being used for red flag analysis."
+    },
+    {
+        "subquestion_id": "131",
+        "subquestion_text": "Data includes dynamic updates."
+    },
+    {
+        "subquestion_id": "132",
+        "subquestion_text": "How comprehensive, in terms of jurisdiction, is the lobbying framework assessed for this question? "
+    },
+    {
+        "subquestion_id": "133",
+        "subquestion_text": "Birth information includes data about site of delivery, attendant at birth, and month in which prenatal care began."
+    },
+    {
+        "subquestion_id": "134",
+        "subquestion_text": "The data contains common identifiers to connect budget and budget performance data."
+    },
+    {
+        "subquestion_id": "135",
+        "subquestion_text": "Data is disaggregated by cross-cutting programs, or issues such as SDGs, climate action, gender budgeting, etc,"
+    },
+    {
+        "subquestion_id": "136",
+        "subquestion_text": "Information about individual financial transactions or expenditures is available at the most disaggregated level of the economic classification level."
+    },
+    {
+        "subquestion_id": "137",
+        "subquestion_text": "Budget entries have program classifications according to an internationally agreed standard."
+    },
+    {
+        "subquestion_id": "138",
+        "subquestion_text": "The data includes information at the level of facilities."
+    },
+    {
+        "subquestion_id": "139",
+        "subquestion_text": "Budget entries have functional classifications to an internationally agreed standard."
+    },
+    {
+        "subquestion_id": "140",
+        "subquestion_text": "There is evidence of government procurement data being presented through data-driven dashboards."
+    },
+    {
+        "subquestion_id": "141",
+        "subquestion_text": "The data includes detailed information about the number and availability of regular beds and ICU beds."
+    },
+    {
+        "subquestion_id": "142",
+        "subquestion_text": "Budget entries have economic classifications to an internationally agreed standard."
+    },
+    {
+        "subquestion_id": "143",
+        "subquestion_text": "Budget entries have administrative classifications to an internationally agreed standard."
+    },
+    {
+        "subquestion_id": "144",
+        "subquestion_text": "The data includes detailed information about the number and availability of medical devices or supplies, such as ventilators or oxygen cylinders."
+    },
+    {
+        "subquestion_id": "145",
+        "subquestion_text": "The data includes detailed information about the number, type, and availability of COVID-19 tests."
+    },
+    {
+        "subquestion_id": "146",
+        "subquestion_text": "Birth information includes data about sex and\/or assigned gender of child, gestational age, and birth weight."
+    },
+    {
+        "subquestion_id": "147",
+        "subquestion_text": "Birth information includes data about age of father and place of usual residence."
+    },
+    {
+        "subquestion_id": "148",
+        "subquestion_text": "The data contains identifiers that can be used to connect budget data with data on major projects (e.g., infrastructure construction) and procurement processes."
+    },
+    {
+        "subquestion_id": "149",
+        "subquestion_text": "How comprehensive is the data assessed?"
+    },
+    {
+        "subquestion_id": "150",
+        "subquestion_text": "Procurement related to goods and services is included."
+    },
+    {
+        "subquestion_id": "151",
+        "subquestion_text": "Procurement related to public works is included."
+    },
+    {
+        "subquestion_id": "152",
+        "subquestion_text": "The planning phase is covered."
+    },
+    {
+        "subquestion_id": "153",
+        "subquestion_text": "The tender stage is covered."
+    },
+    {
+        "subquestion_id": "154",
+        "subquestion_text": "The award stage is covered."
+    },
+    {
+        "subquestion_id": "155",
+        "subquestion_text": "The contract implementation stage is covered."
+    },
+    {
+        "subquestion_id": "156",
+        "subquestion_text": "The data contains identifiers or other features that connect together data on each stage of a single procurement process."
+    },
+    {
+        "subquestion_id": "157",
+        "subquestion_text": "The data contains names and unique identifiers for companies awarded contracts."
+    },
+    {
+        "subquestion_id": "158",
+        "subquestion_text": "The data contains start and end dates for tender processes and\/or contracts."
+    },
+    {
+        "subquestion_id": "159",
+        "subquestion_text": "The data contains the value (cost) of each tender, award, or contract"
+    },
+    {
+        "subquestion_id": "160",
+        "subquestion_text": "The data contains, or can be linked to, information on spending against the contract."
+    },
+    {
+        "subquestion_id": "161",
+        "subquestion_text": "The data contains a description of the goods, services or works being procured."
+    },
+    {
+        "subquestion_id": "162",
+        "subquestion_text": "The data contains links to accessible tender, award, or contract documentation"
+    },
+    {
+        "subquestion_id": "163",
+        "subquestion_text": "To what extent is there evidence of this kind of data use?"
+    },
+    {
+        "subquestion_id": "164",
+        "subquestion_text": "The data contains unique identifiers for each lobbyist and public official."
+    },
+    {
+        "subquestion_id": "165",
+        "subquestion_text": "The framework requires collecting information on significant changes in assets and liabilities."
+    },
+    {
+        "subquestion_id": "166",
+        "subquestion_text": "The framework requires the collection and publication of information on how much money is spent on lobbying activities."
+    },
+    {
+        "subquestion_id": "167",
+        "subquestion_text": "There is guidance and support for government publication of open data."
+    },
+    {
+        "subquestion_id": "168",
+        "subquestion_text": "There is evidence of government efforts to support private sector or NGO data reuse."
+    },
+    {
+        "subquestion_id": "169",
+        "subquestion_text": "There is evidence of government efforts to support big data reuse in a general sense."
+    },
+    {
+        "subquestion_id": "170",
+        "subquestion_text": "There is evidence of government efforts to support open government data reuse."
+    },
+    {
+        "subquestion_id": "171",
+        "subquestion_text": "Is there evidence of a government strategy to support and encourage data reuse?"
+    },
+    {
+        "subquestion_id": "172",
+        "subquestion_text": "How widely does this, or similar, open data initiatives apply?"
+    },
+    {
+        "subquestion_id": "173",
+        "subquestion_text": "Senior political leaders back the open data initiative."
+    },
+    {
+        "subquestion_id": "174",
+        "subquestion_text": "There is a well-maintained open data portal."
+    },
+    {
+        "subquestion_id": "175",
+        "subquestion_text": "Training on data is focused on specific positions already working with data."
+    },
+    {
+        "subquestion_id": "176",
+        "subquestion_text": "There is an allocated budget for open data activities."
+    },
+    {
+        "subquestion_id": "177",
+        "subquestion_text": "There is a government team in place supporting open data activities."
+    },
+    {
+        "subquestion_id": "178",
+        "subquestion_text": "Has there been any form of government-led open government data initiative during the study period?"
+    },
+    {
+        "subquestion_id": "179",
+        "subquestion_text": "How widespread, in terms of jurisdictions, are trainings assessed for this question?"
+    },
+    {
+        "subquestion_id": "180",
+        "subquestion_text": "How widespread, in terms of agencies and ministries, are the trainings assessed for this question?"
+    },
+    {
+        "subquestion_id": "181",
+        "subquestion_text": "Public servants receive a certification when taking a training so there is a formal recognition as a professional development."
+    },
+    {
+        "subquestion_id": "182",
+        "subquestion_text": "There is evidence of government efforts to support crowdsourced data reuse."
+    },
+    {
+        "subquestion_id": "183",
+        "subquestion_text": "There is evidence of government efforts to support data reuse from various data topics."
+    },
+    {
+        "subquestion_id": "184",
+        "subquestion_text": "There is evidence of government efforts to support data reuse by civil society organizations."
+    },
+    {
+        "subquestion_id": "185",
+        "subquestion_text": "There is evidence of government efforts to support data reuse by media."
+    },
+    {
+        "subquestion_id": "186",
+        "subquestion_text": "There is evidence of government efforts to support data reuse by scholars and academic institutions."
+    },
+    {
+        "subquestion_id": "187",
+        "subquestion_text": "There is evidence of government efforts to support data reuse by the private sector."
+    },
+    {
+        "subquestion_id": "188",
+        "subquestion_text": "Government support for data reuse involves data challenges."
+    },
+    {
+        "subquestion_id": "189",
+        "subquestion_text": "Government support for data reuse involves hackathons."
+    },
+    {
+        "subquestion_id": "190",
+        "subquestion_text": "Government support for data reuse involves communication and community building efforts."
+    },
+    {
+        "subquestion_id": "191",
+        "subquestion_text": "Government support for data reuse involves running information sessions on how to use particular datasets, or how to reuse government data in general."
+    },
+    {
+        "subquestion_id": "192",
+        "subquestion_text": "Government support for data reuse involves the release of funding schemes"
+    },
+    {
+        "subquestion_id": "193",
+        "subquestion_text": "How comprehensive, in terms of jurisdiction, is the coverage of the support assessed for this question?"
+    },
+    {
+        "subquestion_id": "194",
+        "subquestion_text": "To what extent do city, regional, and local governments have the capability to effectively manage data?"
+    },
+    {
+        "subquestion_id": "195",
+        "subquestion_text": "There is evidence of local governments having open data initiatives."
+    },
+    {
+        "subquestion_id": "196",
+        "subquestion_text": "There is evidence of local governments having current open data policies in place."
+    },
+    {
+        "subquestion_id": "197",
+        "subquestion_text": "There is evidence of local governments having rules and or guidance in place to provide a comprehensive framework for data sharing."
+    },
+    {
+        "subquestion_id": "198",
+        "subquestion_text": "There is evidence of local governments having rules and or guidance in place for consistent data management and publication."
+    },
+    {
+        "subquestion_id": "199",
+        "subquestion_text": "Training is planned by an established training team, department, or agency."
+    },
+    {
+        "subquestion_id": "200",
+        "subquestion_text": "Training on data addresses non-technical public servants."
+    },
+    {
+        "subquestion_id": "201",
+        "subquestion_text": "The framework requires the collection and publication of information on topics of lobbying activities."
+    },
+    {
+        "subquestion_id": "202",
+        "subquestion_text": "How broadly does this data protection framework apply?"
+    },
+    {
+        "subquestion_id": "203",
+        "subquestion_text": "The framework promotes training and capacity building among government officials."
+    },
+    {
+        "subquestion_id": "204",
+        "subquestion_text": "The rules\/guidance requires the use of specific data standards."
+    },
+    {
+        "subquestion_id": "205",
+        "subquestion_text": "The framework requires to publish data in machine readable formats."
+    },
+    {
+        "subquestion_id": "206",
+        "subquestion_text": "The framework promotes open licensing without any restrictions beyond attribution and share-alike."
+    },
+    {
+        "subquestion_id": "207",
+        "subquestion_text": "The framework establishes a common definition of open data."
+    },
+    {
+        "subquestion_id": "208",
+        "subquestion_text": "Does this framework apply across the whole country?"
+    },
+    {
+        "subquestion_id": "209",
+        "subquestion_text": "Exceptions to the usual data protection framework have been made as part of the country's COVID-19 response."
+    },
+    {
+        "subquestion_id": "210",
+        "subquestion_text": "Training delivered covers specific technical topics for data centred roles."
+    },
+    {
+        "subquestion_id": "211",
+        "subquestion_text": "The framework addresses algorithmic decision making."
+    },
+    {
+        "subquestion_id": "212",
+        "subquestion_text": "Frameworks explicitly cover the protection of location-related data."
+    },
+    {
+        "subquestion_id": "213",
+        "subquestion_text": "The framework requires data controllers to notify an appropriate authority of data breaches."
+    },
+    {
+        "subquestion_id": "214",
+        "subquestion_text": "The framework provides rights of redress"
+    },
+    {
+        "subquestion_id": "215",
+        "subquestion_text": "The framework sets out clear responsibilities for data holders."
+    },
+    {
+        "subquestion_id": "216",
+        "subquestion_text": "The framework provides data subjects with rights to access and correct data about themselves."
+    },
+    {
+        "subquestion_id": "217",
+        "subquestion_text": "How widely do these laws, regulations, policies or guidance apply?"
+    },
+    {
+        "subquestion_id": "218",
+        "subquestion_text": "The framework covers data sharing within government."
+    },
+    {
+        "subquestion_id": "219",
+        "subquestion_text": "The framework covers how government should share data with other sectors."
+    },
+    {
+        "subquestion_id": "220",
+        "subquestion_text": "The framework covers data sharing from other sectors to government."
+    },
+    {
+        "subquestion_id": "221",
+        "subquestion_text": "The framework covers data sharing within the private sector."
+    },
+    {
+        "subquestion_id": "222",
+        "subquestion_text": "The framework explicitly focuses on artificial intelligence uses of data."
+    },
+    {
+        "subquestion_id": "223",
+        "subquestion_text": "How broad is the coverage of legal or policy frameworks for data sharing for the public good?"
+    },
+    {
+        "subquestion_id": "224",
+        "subquestion_text": "There are minimum standards for metadata when government data is catalogued or published."
+    },
+    {
+        "subquestion_id": "225",
+        "subquestion_text": "There is a standardised process for publishing and updating published government data."
+    },
+    {
+        "subquestion_id": "226",
+        "subquestion_text": "There are technical standards, including common data models, codelists, and identifiers for management and publication of government data."
+    },
+    {
+        "subquestion_id": "227",
+        "subquestion_text": "There are clearly documented quality control processes for government data."
+    },
+    {
+        "subquestion_id": "228",
+        "subquestion_text": "There are clearly documented processes for soliciting and integrating feedback from external users to improve data quality."
+    },
+    {
+        "subquestion_id": "229",
+        "subquestion_text": "How broadly is good data management practice established?"
+    },
+    {
+        "subquestion_id": "230",
+        "subquestion_text": "Is there evidence of  government\u00b4s actions to train civil servants on data matters?"
+    },
+    {
+        "subquestion_id": "231",
+        "subquestion_text": "Training delivered covers data frameworks and governance topics."
+    },
+    {
+        "subquestion_id": "232",
+        "subquestion_text": "Training delivered to public servants covers topics on data gathering."
+    },
+    {
+        "subquestion_id": "233",
+        "subquestion_text": "Training delivered covers data analysis, visualisations and storytelling techniques."
+    },
+    {
+        "subquestion_id": "234",
+        "subquestion_text": "There is evidence of local governments providing training to civil servants on data literacy and skills."
+    },
+    {
+        "subquestion_id": "235",
+        "subquestion_text": "There is evidence of local governments providing support for data reuse."
+    },
+    {
+        "subquestion_id": "236",
+        "subquestion_text": "How widespread are local capacities to effectively manage data?"
+    },
+    {
+        "subquestion_id": "237",
+        "subquestion_text": "The framework requires collecting specific information on financial contributions."
+    },
+    {
+        "subquestion_id": "238",
+        "subquestion_text": "The data contains details of the spending of each party or candidate."
+    },
+    {
+        "subquestion_id": "239",
+        "subquestion_text": "Data contains details of assets and liabilities of each party or candidate."
+    },
+    {
+        "subquestion_id": "240",
+        "subquestion_text": "Data contains details of income for each party or candidate."
+    },
+    {
+        "subquestion_id": "241",
+        "subquestion_text": "Data contains details of donations, public funding, and membership dues for each party or candidate."
+    },
+    {
+        "subquestion_id": "242",
+        "subquestion_text": "The framework requires regular updates, including updates in conjunction with campaigns and defined campaign schedules."
+    },
+    {
+        "subquestion_id": "243",
+        "subquestion_text": "The framework requires collecting specific information on income and spending."
+    },
+    {
+        "subquestion_id": "244",
+        "subquestion_text": "The framework requires donors' identities be made public."
+    },
+    {
+        "subquestion_id": "245",
+        "subquestion_text": "Definitions comprehensively cover ownership."
+    },
+    {
+        "subquestion_id": "246",
+        "subquestion_text": "The framework contains clear and unambiguous definitions of campaigning activities of parties, candidates, and third parties."
+    },
+    {
+        "subquestion_id": "247",
+        "subquestion_text": "Is there evidence that these uses have had or are having meaningful positive impacts on land policy?"
+    },
+    {
+        "subquestion_id": "248",
+        "subquestion_text": "There is evidence of the private sector using data in this way."
+    },
+    {
+        "subquestion_id": "249",
+        "subquestion_text": "There is evidence of academics using data in this way."
+    },
+    {
+        "subquestion_id": "250",
+        "subquestion_text": "There is evidence of media using data in this way."
+    },
+    {
+        "subquestion_id": "251",
+        "subquestion_text": "There is evidence of civil society organizations using data in this way."
+    },
+    {
+        "subquestion_id": "252",
+        "subquestion_text": "Data contains details of in kind and non-financial support donated to each party or candidate."
+    },
+    {
+        "subquestion_id": "253",
+        "subquestion_text": "Data contains details of the timing and amounts of donations linked to donors."
+    },
+    {
+        "subquestion_id": "254",
+        "subquestion_text": "Data contains first and last name for each donor."
+    },
+    {
+        "subquestion_id": "255",
+        "subquestion_text": "Data contains detailed information about each donor, including place of residence, occupation, and employer."
+    },
+    {
+        "subquestion_id": "256",
+        "subquestion_text": "Data includes unique identifiers for each donor."
+    },
+    {
+        "subquestion_id": "257",
+        "subquestion_text": "The framework provides data subjects with rights of choice or consent."
+    },
+    {
+        "subquestion_id": "258",
+        "subquestion_text": "The framework requires disclosure of income and assets held by a public official's spouse, family members, or other intimates."
+    },
+    {
+        "subquestion_id": "259",
+        "subquestion_text": "The framework requires the publication of income and asset declarations."
+    },
+    {
+        "subquestion_id": "260",
+        "subquestion_text": "The data contains unique identifiers for each public official and any family members or intimates for whom disclosure is required."
+    },
+    {
+        "subquestion_id": "261",
+        "subquestion_text": "The data contains information on income, assets, and liabilities."
+    },
+    {
+        "subquestion_id": "262",
+        "subquestion_text": "The data contains information on in-kind and non-financial interests."
+    },
+    {
+        "subquestion_id": "263",
+        "subquestion_text": "The data contains information on significant changes in assets and liabilities."
+    },
+    {
+        "subquestion_id": "264",
+        "subquestion_text": "The data contains details of the assets and liabilities held by each family member for whom disclosure is required."
+    },
+    {
+        "subquestion_id": "265",
+        "subquestion_text": "The framework contains clear and unambiguous definitions of lobbyists, lobbying clients, lobbying activities, and public officials."
+    },
+    {
+        "subquestion_id": "266",
+        "subquestion_text": "The framework requires the collection and publication of the identities of lobbyists, lobbyist clients, and public officials who engage with lobbyists."
+    },
+    {
+        "subquestion_id": "267",
+        "subquestion_text": "The framework requires the collection and publication of information on lobbyists' goals for lobbying activities."
+    },
+    {
+        "subquestion_id": "268",
+        "subquestion_text": "The framework requires the collection and publication of information on timing of lobbying activities."
+    },
+    {
+        "subquestion_id": "269",
+        "subquestion_text": "Is there evidence of this data being used to influence policy in the interests of more equitable land tenure and use?"
+    },
+    {
+        "subquestion_id": "270",
+        "subquestion_text": "Metadata provides information about the source(s) from which the data was built."
+    },
+    {
+        "subquestion_id": "271",
+        "subquestion_text": "Each record includes a geospatial reference."
+    },
+    {
+        "subquestion_id": "272",
+        "subquestion_text": "There is evidence of these products and services being promoted to, or used by, media."
+    },
+    {
+        "subquestion_id": "273",
+        "subquestion_text": "Definitions cover control."
+    },
+    {
+        "subquestion_id": "274",
+        "subquestion_text": "Rules or processes exist to protect certain natural persons who are beneficial owners from having their data published."
+    },
+    {
+        "subquestion_id": "275",
+        "subquestion_text": "The rules\/guidance require beneficial ownership data to be collected in a central register or database."
+    },
+    {
+        "subquestion_id": "276",
+        "subquestion_text": "How widely do these laws, regulations, policies, or guidance apply?"
+    },
+    {
+        "subquestion_id": "277",
+        "subquestion_text": "The dataset contains identifying information for each beneficial owner."
+    },
+    {
+        "subquestion_id": "278",
+        "subquestion_text": "The dataset contains details of the interests held by each beneficial owner."
+    },
+    {
+        "subquestion_id": "279",
+        "subquestion_text": "Is the data restricted to a particular sector? Or does it have broad coverage of companies in the country?"
+    },
+    {
+        "subquestion_id": "280",
+        "subquestion_text": "Basic company information, including company name, legal form, status, and registered address."
+    },
+    {
+        "subquestion_id": "281",
+        "subquestion_text": "The data contains details of each director."
+    },
+    {
+        "subquestion_id": "282",
+        "subquestion_text": "Structured data on company accounts is available for each registered company."
+    },
+    {
+        "subquestion_id": "283",
+        "subquestion_text": "Is there evidence of this data being used in products\/services?"
+    },
+    {
+        "subquestion_id": "284",
+        "subquestion_text": "There is evidence of these products and services being promoted to, or used by, government."
+    },
+    {
+        "subquestion_id": "285",
+        "subquestion_text": "There is evidence of these products\/services being promoted to, or used by, civil society"
+    },
+    {
+        "subquestion_id": "286",
+        "subquestion_text": "There is evidence of these products\/services being promoted to, or used by, the private sector."
+    },
+    {
+        "subquestion_id": "287",
+        "subquestion_text": "There is evidence that at least one of the examples cited is making use of beneficial ownership data."
+    },
+    {
+        "subquestion_id": "288",
+        "subquestion_text": "Protected areas can be identified in available data or in a related dataset."
+    },
+    {
+        "subquestion_id": "289",
+        "subquestion_text": "Datasets have information regarding indigenous people or marginalized populations."
+    },
+    {
+        "subquestion_id": "290",
+        "subquestion_text": "The data covers land tenure involving natural persons."
+    },
+    {
+        "subquestion_id": "291",
+        "subquestion_text": "The data covers land tenure involving legal persons."
+    },
+    {
+        "subquestion_id": "292",
+        "subquestion_text": "The data covers land tenure involving state land."
+    },
+    {
+        "subquestion_id": "293",
+        "subquestion_text": "The data covers land tenure involving communal lands."
+    },
+    {
+        "subquestion_id": "294",
+        "subquestion_text": "The data covers land tenure involving open access lands."
+    },
+    {
+        "subquestion_id": "295",
+        "subquestion_text": "The data covers urban and rural tenure, and other relevant forms of tenure."
+    },
+    {
+        "subquestion_id": "296",
+        "subquestion_text": "The data covers and has information on land concessions and\/or leases."
+    },
+    {
+        "subquestion_id": "297",
+        "subquestion_text": "Each record has a geospatial reference that allows to assign features to a spatial extent."
+    },
+    {
+        "subquestion_id": "298",
+        "subquestion_text": "The data contains information on land transactions and sale-values."
+    },
+    {
+        "subquestion_id": "299",
+        "subquestion_text": "Each tenure record contains information about the rights held over the land (freehold, lease, etc.)."
+    },
+    {
+        "subquestion_id": "300",
+        "subquestion_text": "Do the datasets available cover the tenure data of the majority of land?"
+    },
+    {
+        "subquestion_id": "301",
+        "subquestion_text": "Each record is categorized according to a standardized land use dictionary."
+    },
+    {
+        "subquestion_id": "302",
+        "subquestion_text": "Forested areas can be identified in available data or in a related dataset."
+    },
+    {
+        "subquestion_id": "303",
+        "subquestion_text": "The data includes information about vaccination for residents of prisons and jails."
+    }
+]

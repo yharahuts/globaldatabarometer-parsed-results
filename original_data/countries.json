@@ -1,0 +1,874 @@
+[
+    {
+        "iso": "AGO",
+        "country_name": "Angola",
+        "slug": "angola",
+        "regional_hub": "Local Development Research Institute (LDRI)",
+        "region_name": "Africa",
+        "sub_region_name": "Africa"
+    },
+    {
+        "iso": "ALB",
+        "country_name": "Albania",
+        "slug": "albania",
+        "regional_hub": "Open Data Kosovo",
+        "region_name": "Europe",
+        "sub_region_name": "Eastern Europe and Central Asia"
+    },
+    {
+        "iso": "ARE",
+        "country_name": "United Arab Emirates",
+        "slug": "united-arab-emirates",
+        "regional_hub": "Birzeit University",
+        "region_name": "Asia",
+        "sub_region_name": "Middle East and North Africa"
+    },
+    {
+        "iso": "ARG",
+        "country_name": "Argentina",
+        "slug": "argentina",
+        "regional_hub": "ILDA",
+        "region_name": "Americas",
+        "sub_region_name": "Latin America and the Caribbean"
+    },
+    {
+        "iso": "ARM",
+        "country_name": "Armenia",
+        "slug": "armenia",
+        "regional_hub": "IDFI Georgia",
+        "region_name": "Asia",
+        "sub_region_name": "Eastern Europe and Central Asia"
+    },
+    {
+        "iso": "AUS",
+        "country_name": "Australia",
+        "slug": "australia",
+        "regional_hub": "Access Info Europe",
+        "region_name": "Oceania",
+        "sub_region_name": "European Union, United Kingdom, North America, Israel, Australia and New Zealand"
+    },
+    {
+        "iso": "AZE",
+        "country_name": "Azerbaijan",
+        "slug": "azerbaijan",
+        "regional_hub": "IDFI Georgia",
+        "region_name": "Asia",
+        "sub_region_name": "Eastern Europe and Central Asia"
+    },
+    {
+        "iso": "BEN",
+        "country_name": "Benin",
+        "slug": "benin",
+        "regional_hub": "Local Development Research Institute (LDRI)",
+        "region_name": "Africa",
+        "sub_region_name": "Africa"
+    },
+    {
+        "iso": "BFA",
+        "country_name": "Burkina Faso",
+        "slug": "burkina-faso",
+        "regional_hub": "Local Development Research Institute (LDRI)",
+        "region_name": "Africa",
+        "sub_region_name": "Africa"
+    },
+    {
+        "iso": "BGD",
+        "country_name": "Bangladesh",
+        "slug": "bangladesh",
+        "regional_hub": "East-West Management Institute Inc. (EWMI)",
+        "region_name": "Asia",
+        "sub_region_name": "South and East Asia"
+    },
+    {
+        "iso": "BGR",
+        "country_name": "Bulgaria",
+        "slug": "bulgaria",
+        "regional_hub": "Access Info Europe",
+        "region_name": "Europe",
+        "sub_region_name": "European Union, United Kingdom, North America, Israel, Australia and New Zealand"
+    },
+    {
+        "iso": "BHR",
+        "country_name": "Bahrain",
+        "slug": "bahrain",
+        "regional_hub": "Birzeit University",
+        "region_name": "Asia",
+        "sub_region_name": "Middle East and North Africa"
+    },
+    {
+        "iso": "BHS",
+        "country_name": "Bahamas",
+        "slug": "bahamas",
+        "regional_hub": "The Caribbean Open Institute (COI)",
+        "region_name": "Americas",
+        "sub_region_name": "Latin America and the Caribbean"
+    },
+    {
+        "iso": "BLR",
+        "country_name": "Belarus",
+        "slug": "belarus",
+        "regional_hub": "IDFI Georgia",
+        "region_name": "Europe",
+        "sub_region_name": "Eastern Europe and Central Asia"
+    },
+    {
+        "iso": "BLZ",
+        "country_name": "Belize",
+        "slug": "belize",
+        "regional_hub": "The Caribbean Open Institute (COI)",
+        "region_name": "Americas",
+        "sub_region_name": "Latin America and the Caribbean"
+    },
+    {
+        "iso": "BOL",
+        "country_name": "Bolivia (Plurinational State of)",
+        "slug": "bolivia-plurinational-state-of",
+        "regional_hub": "ILDA",
+        "region_name": "Americas",
+        "sub_region_name": "Latin America and the Caribbean"
+    },
+    {
+        "iso": "BRA",
+        "country_name": "Brazil",
+        "slug": "brazil",
+        "regional_hub": "ILDA",
+        "region_name": "Americas",
+        "sub_region_name": "Latin America and the Caribbean"
+    },
+    {
+        "iso": "BWA",
+        "country_name": "Botswana",
+        "slug": "botswana",
+        "regional_hub": "Local Development Research Institute (LDRI)",
+        "region_name": "Africa",
+        "sub_region_name": "Africa"
+    },
+    {
+        "iso": "CAN",
+        "country_name": "Canada",
+        "slug": "canada",
+        "regional_hub": "Access Info Europe",
+        "region_name": "Americas",
+        "sub_region_name": "European Union, United Kingdom, North America, Israel, Australia and New Zealand"
+    },
+    {
+        "iso": "CHL",
+        "country_name": "Chile",
+        "slug": "chile",
+        "regional_hub": "ILDA",
+        "region_name": "Americas",
+        "sub_region_name": "Latin America and the Caribbean"
+    },
+    {
+        "iso": "CHN",
+        "country_name": "China",
+        "slug": "china",
+        "regional_hub": "Open Data China",
+        "region_name": "Asia",
+        "sub_region_name": "South and East Asia"
+    },
+    {
+        "iso": "CIV",
+        "country_name": "C\u00f4te d'Ivoire",
+        "slug": "cote-d-ivoire",
+        "regional_hub": "Local Development Research Institute (LDRI)",
+        "region_name": "Africa",
+        "sub_region_name": "Africa"
+    },
+    {
+        "iso": "CMR",
+        "country_name": "Cameroon",
+        "slug": "cameroon",
+        "regional_hub": "Local Development Research Institute (LDRI)",
+        "region_name": "Africa",
+        "sub_region_name": "Africa"
+    },
+    {
+        "iso": "COL",
+        "country_name": "Colombia",
+        "slug": "colombia",
+        "regional_hub": "ILDA",
+        "region_name": "Americas",
+        "sub_region_name": "Latin America and the Caribbean"
+    },
+    {
+        "iso": "CRI",
+        "country_name": "Costa Rica",
+        "slug": "costa-rica",
+        "regional_hub": "ILDA",
+        "region_name": "Americas",
+        "sub_region_name": "Latin America and the Caribbean"
+    },
+    {
+        "iso": "CZE",
+        "country_name": "Czechia",
+        "slug": "czechia",
+        "regional_hub": "Access Info Europe",
+        "region_name": "Europe",
+        "sub_region_name": "European Union, United Kingdom, North America, Israel, Australia and New Zealand"
+    },
+    {
+        "iso": "DEU",
+        "country_name": "Germany",
+        "slug": "germany",
+        "regional_hub": "Access Info Europe",
+        "region_name": "Europe",
+        "sub_region_name": "European Union, United Kingdom, North America, Israel, Australia and New Zealand"
+    },
+    {
+        "iso": "DNK",
+        "country_name": "Denmark",
+        "slug": "denmark",
+        "regional_hub": "Access Info Europe",
+        "region_name": "Europe",
+        "sub_region_name": "European Union, United Kingdom, North America, Israel, Australia and New Zealand"
+    },
+    {
+        "iso": "DOM",
+        "country_name": "Dominican Republic",
+        "slug": "dominican-republic",
+        "regional_hub": "The Caribbean Open Institute (COI)",
+        "region_name": "Americas",
+        "sub_region_name": "Latin America and the Caribbean"
+    },
+    {
+        "iso": "ECU",
+        "country_name": "Ecuador",
+        "slug": "ecuador",
+        "regional_hub": "ILDA",
+        "region_name": "Americas",
+        "sub_region_name": "Latin America and the Caribbean"
+    },
+    {
+        "iso": "EGY",
+        "country_name": "Egypt",
+        "slug": "egypt",
+        "regional_hub": "Birzeit University",
+        "region_name": "Africa",
+        "sub_region_name": "Middle East and North Africa"
+    },
+    {
+        "iso": "ESP",
+        "country_name": "Spain",
+        "slug": "spain",
+        "regional_hub": "Access Info Europe",
+        "region_name": "Europe",
+        "sub_region_name": "European Union, United Kingdom, North America, Israel, Australia and New Zealand"
+    },
+    {
+        "iso": "EST",
+        "country_name": "Estonia",
+        "slug": "estonia",
+        "regional_hub": "Access Info Europe",
+        "region_name": "Europe",
+        "sub_region_name": "European Union, United Kingdom, North America, Israel, Australia and New Zealand"
+    },
+    {
+        "iso": "FIN",
+        "country_name": "Finland",
+        "slug": "finland",
+        "regional_hub": "Access Info Europe",
+        "region_name": "Europe",
+        "sub_region_name": "European Union, United Kingdom, North America, Israel, Australia and New Zealand"
+    },
+    {
+        "iso": "FRA",
+        "country_name": "France",
+        "slug": "france",
+        "regional_hub": "Access Info Europe",
+        "region_name": "Europe",
+        "sub_region_name": "European Union, United Kingdom, North America, Israel, Australia and New Zealand"
+    },
+    {
+        "iso": "GBR",
+        "country_name": "United Kingdom of Great Britain and Northern Ireland",
+        "slug": "united-kingdom-of-great-britain-and-northern-ireland",
+        "regional_hub": "Access Info Europe",
+        "region_name": "Europe",
+        "sub_region_name": "European Union, United Kingdom, North America, Israel, Australia and New Zealand"
+    },
+    {
+        "iso": "GEO",
+        "country_name": "Georgia",
+        "slug": "georgia",
+        "regional_hub": "IDFI Georgia",
+        "region_name": "Asia",
+        "sub_region_name": "Eastern Europe and Central Asia"
+    },
+    {
+        "iso": "GHA",
+        "country_name": "Ghana",
+        "slug": "ghana",
+        "regional_hub": "Local Development Research Institute (LDRI)",
+        "region_name": "Africa",
+        "sub_region_name": "Africa"
+    },
+    {
+        "iso": "GMB",
+        "country_name": "Gambia",
+        "slug": "gambia",
+        "regional_hub": "Local Development Research Institute (LDRI)",
+        "region_name": "Africa",
+        "sub_region_name": "Africa"
+    },
+    {
+        "iso": "GRC",
+        "country_name": "Greece",
+        "slug": "greece",
+        "regional_hub": "Access Info Europe",
+        "region_name": "Europe",
+        "sub_region_name": "European Union, United Kingdom, North America, Israel, Australia and New Zealand"
+    },
+    {
+        "iso": "GTM",
+        "country_name": "Guatemala",
+        "slug": "guatemala",
+        "regional_hub": "ILDA",
+        "region_name": "Americas",
+        "sub_region_name": "Latin America and the Caribbean"
+    },
+    {
+        "iso": "GUY",
+        "country_name": "Guyana",
+        "slug": "guyana",
+        "regional_hub": "The Caribbean Open Institute (COI)",
+        "region_name": "Americas",
+        "sub_region_name": "Latin America and the Caribbean"
+    },
+    {
+        "iso": "HKG",
+        "country_name": "China, Hong Kong Special Administrative Region",
+        "slug": "china-hong-kong-special-administrative-region",
+        "regional_hub": "ISOC Chapter Hong Kong",
+        "region_name": "Asia",
+        "sub_region_name": "South and East Asia"
+    },
+    {
+        "iso": "HND",
+        "country_name": "Honduras",
+        "slug": "honduras",
+        "regional_hub": "ILDA",
+        "region_name": "Americas",
+        "sub_region_name": "Latin America and the Caribbean"
+    },
+    {
+        "iso": "HRV",
+        "country_name": "Croatia",
+        "slug": "croatia",
+        "regional_hub": "Access Info Europe",
+        "region_name": "Europe",
+        "sub_region_name": "European Union, United Kingdom, North America, Israel, Australia and New Zealand"
+    },
+    {
+        "iso": "HTI",
+        "country_name": "Haiti",
+        "slug": "haiti",
+        "regional_hub": "The Caribbean Open Institute (COI)",
+        "region_name": "Americas",
+        "sub_region_name": "Latin America and the Caribbean"
+    },
+    {
+        "iso": "IDN",
+        "country_name": "Indonesia",
+        "slug": "indonesia",
+        "regional_hub": "East-West Management Institute Inc. (EWMI)",
+        "region_name": "Asia",
+        "sub_region_name": "South and East Asia"
+    },
+    {
+        "iso": "IND",
+        "country_name": "India",
+        "slug": "india",
+        "regional_hub": "East-West Management Institute Inc. (EWMI)",
+        "region_name": "Asia",
+        "sub_region_name": "South and East Asia"
+    },
+    {
+        "iso": "IRL",
+        "country_name": "Ireland",
+        "slug": "ireland",
+        "regional_hub": "Access Info Europe",
+        "region_name": "Europe",
+        "sub_region_name": "European Union, United Kingdom, North America, Israel, Australia and New Zealand"
+    },
+    {
+        "iso": "ISR",
+        "country_name": "Israel",
+        "slug": "israel",
+        "regional_hub": "Access Info Europe",
+        "region_name": "Asia",
+        "sub_region_name": "European Union, United Kingdom, North America, Israel, Australia and New Zealand"
+    },
+    {
+        "iso": "ITA",
+        "country_name": "Italy",
+        "slug": "italy",
+        "regional_hub": "Access Info Europe",
+        "region_name": "Europe",
+        "sub_region_name": "European Union, United Kingdom, North America, Israel, Australia and New Zealand"
+    },
+    {
+        "iso": "JAM",
+        "country_name": "Jamaica",
+        "slug": "jamaica",
+        "regional_hub": "The Caribbean Open Institute (COI)",
+        "region_name": "Americas",
+        "sub_region_name": "Latin America and the Caribbean"
+    },
+    {
+        "iso": "JOR",
+        "country_name": "Jordan",
+        "slug": "jordan",
+        "regional_hub": "Birzeit University",
+        "region_name": "Asia",
+        "sub_region_name": "Middle East and North Africa"
+    },
+    {
+        "iso": "KAZ",
+        "country_name": "Kazakhstan",
+        "slug": "kazakhstan",
+        "regional_hub": "IDFI Georgia",
+        "region_name": "Asia",
+        "sub_region_name": "Eastern Europe and Central Asia"
+    },
+    {
+        "iso": "KEN",
+        "country_name": "Kenya",
+        "slug": "kenya",
+        "regional_hub": "Local Development Research Institute (LDRI)",
+        "region_name": "Africa",
+        "sub_region_name": "Africa"
+    },
+    {
+        "iso": "KGZ",
+        "country_name": "Kyrgyz Republic",
+        "slug": "kyrgyz-republic",
+        "regional_hub": "IDFI Georgia",
+        "region_name": "Asia",
+        "sub_region_name": "Eastern Europe and Central Asia"
+    },
+    {
+        "iso": "KHM",
+        "country_name": "Cambodia",
+        "slug": "cambodia",
+        "regional_hub": "East-West Management Institute Inc. (EWMI)",
+        "region_name": "Asia",
+        "sub_region_name": "South and East Asia"
+    },
+    {
+        "iso": "KOR",
+        "country_name": "Republic of Korea",
+        "slug": "republic-of-korea",
+        "regional_hub": "Access Info Europe",
+        "region_name": "Asia",
+        "sub_region_name": "South and East Asia"
+    },
+    {
+        "iso": "LBR",
+        "country_name": "Liberia",
+        "slug": "liberia",
+        "regional_hub": "Local Development Research Institute (LDRI)",
+        "region_name": "Africa",
+        "sub_region_name": "Africa"
+    },
+    {
+        "iso": "LCA",
+        "country_name": "Saint Lucia",
+        "slug": "saint-lucia",
+        "regional_hub": "The Caribbean Open Institute (COI)",
+        "region_name": "Americas",
+        "sub_region_name": "Latin America and the Caribbean"
+    },
+    {
+        "iso": "LKA",
+        "country_name": "Sri Lanka",
+        "slug": "sri-lanka",
+        "regional_hub": "East-West Management Institute Inc. (EWMI)",
+        "region_name": "Asia",
+        "sub_region_name": "South and East Asia"
+    },
+    {
+        "iso": "LTU",
+        "country_name": "Lithuania",
+        "slug": "lithuania",
+        "regional_hub": "Access Info Europe",
+        "region_name": "Europe",
+        "sub_region_name": "European Union, United Kingdom, North America, Israel, Australia and New Zealand"
+    },
+    {
+        "iso": "LVA",
+        "country_name": "Latvia",
+        "slug": "latvia",
+        "regional_hub": "Access Info Europe",
+        "region_name": "Europe",
+        "sub_region_name": "European Union, United Kingdom, North America, Israel, Australia and New Zealand"
+    },
+    {
+        "iso": "MAR",
+        "country_name": "Morocco",
+        "slug": "morocco",
+        "regional_hub": "Local Development Research Institute (LDRI)",
+        "region_name": "Africa",
+        "sub_region_name": "Africa"
+    },
+    {
+        "iso": "MDA",
+        "country_name": "Republic of Moldova",
+        "slug": "republic-of-moldova",
+        "regional_hub": "IDFI Georgia",
+        "region_name": "Europe",
+        "sub_region_name": "Eastern Europe and Central Asia"
+    },
+    {
+        "iso": "MEX",
+        "country_name": "Mexico",
+        "slug": "mexico",
+        "regional_hub": "ILDA",
+        "region_name": "Americas",
+        "sub_region_name": "Latin America and the Caribbean"
+    },
+    {
+        "iso": "MLT",
+        "country_name": "Malta",
+        "slug": "malta",
+        "regional_hub": "Access Info Europe",
+        "region_name": "Europe",
+        "sub_region_name": "European Union, United Kingdom, North America, Israel, Australia and New Zealand"
+    },
+    {
+        "iso": "MNG",
+        "country_name": "Mongolia",
+        "slug": "mongolia",
+        "regional_hub": "IDFI Georgia",
+        "region_name": "Asia",
+        "sub_region_name": "Eastern Europe and Central Asia"
+    },
+    {
+        "iso": "MOZ",
+        "country_name": "Mozambique",
+        "slug": "mozambique",
+        "regional_hub": "Local Development Research Institute (LDRI)",
+        "region_name": "Africa",
+        "sub_region_name": "Africa"
+    },
+    {
+        "iso": "MWI",
+        "country_name": "Malawi",
+        "slug": "malawi",
+        "regional_hub": "Local Development Research Institute (LDRI)",
+        "region_name": "Africa",
+        "sub_region_name": "Africa"
+    },
+    {
+        "iso": "MYS",
+        "country_name": "Malaysia",
+        "slug": "malaysia",
+        "regional_hub": "East-West Management Institute Inc. (EWMI)",
+        "region_name": "Asia",
+        "sub_region_name": "South and East Asia"
+    },
+    {
+        "iso": "NAM",
+        "country_name": "Namibia",
+        "slug": "namibia",
+        "regional_hub": "Local Development Research Institute (LDRI)",
+        "region_name": "Africa",
+        "sub_region_name": "Africa"
+    },
+    {
+        "iso": "NCL",
+        "country_name": "New Caledonia",
+        "slug": "new-caledonia",
+        "regional_hub": "Pacific Community (SPC)",
+        "region_name": "Oceania",
+        "sub_region_name": "South and East Asia"
+    },
+    {
+        "iso": "NGA",
+        "country_name": "Nigeria",
+        "slug": "nigeria",
+        "regional_hub": "Local Development Research Institute (LDRI)",
+        "region_name": "Africa",
+        "sub_region_name": "Africa"
+    },
+    {
+        "iso": "NLD",
+        "country_name": "Netherlands",
+        "slug": "netherlands",
+        "regional_hub": "Access Info Europe",
+        "region_name": "Europe",
+        "sub_region_name": "European Union, United Kingdom, North America, Israel, Australia and New Zealand"
+    },
+    {
+        "iso": "NPL",
+        "country_name": "Nepal",
+        "slug": "nepal",
+        "regional_hub": "East-West Management Institute Inc. (EWMI)",
+        "region_name": "Asia",
+        "sub_region_name": "South and East Asia"
+    },
+    {
+        "iso": "NZL",
+        "country_name": "New Zealand",
+        "slug": "new-zealand",
+        "regional_hub": "Access Info Europe",
+        "region_name": "Oceania",
+        "sub_region_name": "European Union, United Kingdom, North America, Israel, Australia and New Zealand"
+    },
+    {
+        "iso": "OMN",
+        "country_name": "Oman",
+        "slug": "oman",
+        "regional_hub": "Birzeit University",
+        "region_name": "Asia",
+        "sub_region_name": "Middle East and North Africa"
+    },
+    {
+        "iso": "PAN",
+        "country_name": "Panama",
+        "slug": "panama",
+        "regional_hub": "ILDA",
+        "region_name": "Americas",
+        "sub_region_name": "Latin America and the Caribbean"
+    },
+    {
+        "iso": "PER",
+        "country_name": "Peru",
+        "slug": "peru",
+        "regional_hub": "ILDA",
+        "region_name": "Americas",
+        "sub_region_name": "Latin America and the Caribbean"
+    },
+    {
+        "iso": "PHL",
+        "country_name": "Philippines",
+        "slug": "philippines",
+        "regional_hub": "East-West Management Institute Inc. (EWMI)",
+        "region_name": "Asia",
+        "sub_region_name": "South and East Asia"
+    },
+    {
+        "iso": "PRT",
+        "country_name": "Portugal",
+        "slug": "portugal",
+        "regional_hub": "Access Info Europe",
+        "region_name": "Europe",
+        "sub_region_name": "European Union, United Kingdom, North America, Israel, Australia and New Zealand"
+    },
+    {
+        "iso": "PRY",
+        "country_name": "Paraguay",
+        "slug": "paraguay",
+        "regional_hub": "ILDA",
+        "region_name": "Americas",
+        "sub_region_name": "Latin America and the Caribbean"
+    },
+    {
+        "iso": "PSE",
+        "country_name": "State of Palestine",
+        "slug": "state-of-palestine",
+        "regional_hub": "Birzeit University",
+        "region_name": "Asia",
+        "sub_region_name": "Middle East and North Africa"
+    },
+    {
+        "iso": "QAT",
+        "country_name": "Qatar",
+        "slug": "qatar",
+        "regional_hub": "Birzeit University",
+        "region_name": "Asia",
+        "sub_region_name": "Middle East and North Africa"
+    },
+    {
+        "iso": "ROU",
+        "country_name": "Romania",
+        "slug": "romania",
+        "regional_hub": "Access Info Europe",
+        "region_name": "Europe",
+        "sub_region_name": "European Union, United Kingdom, North America, Israel, Australia and New Zealand"
+    },
+    {
+        "iso": "RUS",
+        "country_name": "Russian Federation",
+        "slug": "russian-federation",
+        "regional_hub": "InfoCulture Russia",
+        "region_name": "Europe",
+        "sub_region_name": "Eastern Europe and Central Asia"
+    },
+    {
+        "iso": "RWA",
+        "country_name": "Rwanda",
+        "slug": "rwanda",
+        "regional_hub": "Local Development Research Institute (LDRI)",
+        "region_name": "Africa",
+        "sub_region_name": "Africa"
+    },
+    {
+        "iso": "SAU",
+        "country_name": "Saudi Arabia",
+        "slug": "saudi-arabia",
+        "regional_hub": "Birzeit University",
+        "region_name": "Asia",
+        "sub_region_name": "Middle East and North Africa"
+    },
+    {
+        "iso": "SEN",
+        "country_name": "Senegal",
+        "slug": "senegal",
+        "regional_hub": "Local Development Research Institute (LDRI)",
+        "region_name": "Africa",
+        "sub_region_name": "Africa"
+    },
+    {
+        "iso": "SLE",
+        "country_name": "Sierra Leone",
+        "slug": "sierra-leone",
+        "regional_hub": "Local Development Research Institute (LDRI)",
+        "region_name": "Africa",
+        "sub_region_name": "Africa"
+    },
+    {
+        "iso": "SLV",
+        "country_name": "El Salvador",
+        "slug": "el-salvador",
+        "regional_hub": "ILDA",
+        "region_name": "Americas",
+        "sub_region_name": "Latin America and the Caribbean"
+    },
+    {
+        "iso": "SVK",
+        "country_name": "Slovakia",
+        "slug": "slovakia",
+        "regional_hub": "Access Info Europe",
+        "region_name": "Europe",
+        "sub_region_name": "European Union, United Kingdom, North America, Israel, Australia and New Zealand"
+    },
+    {
+        "iso": "SWE",
+        "country_name": "Sweden",
+        "slug": "sweden",
+        "regional_hub": "Access Info Europe",
+        "region_name": "Europe",
+        "sub_region_name": "European Union, United Kingdom, North America, Israel, Australia and New Zealand"
+    },
+    {
+        "iso": "TGO",
+        "country_name": "Togo",
+        "slug": "togo",
+        "regional_hub": "Local Development Research Institute (LDRI)",
+        "region_name": "Africa",
+        "sub_region_name": "Africa"
+    },
+    {
+        "iso": "THA",
+        "country_name": "Thailand",
+        "slug": "thailand",
+        "regional_hub": "East-West Management Institute Inc. (EWMI)",
+        "region_name": "Asia",
+        "sub_region_name": "South and East Asia"
+    },
+    {
+        "iso": "TJK",
+        "country_name": "Tajikistan",
+        "slug": "tajikistan",
+        "regional_hub": "IDFI Georgia",
+        "region_name": "Asia",
+        "sub_region_name": "Eastern Europe and Central Asia"
+    },
+    {
+        "iso": "TKM",
+        "country_name": "Turkmenistan",
+        "slug": "turkmenistan",
+        "regional_hub": "IDFI Georgia",
+        "region_name": "Asia",
+        "sub_region_name": "Eastern Europe and Central Asia"
+    },
+    {
+        "iso": "TTO",
+        "country_name": "Trinidad and Tobago",
+        "slug": "trinidad-and-tobago",
+        "regional_hub": "The Caribbean Open Institute (COI)",
+        "region_name": "Americas",
+        "sub_region_name": "Latin America and the Caribbean"
+    },
+    {
+        "iso": "TUN",
+        "country_name": "Tunisia",
+        "slug": "tunisia",
+        "regional_hub": "Local Development Research Institute (LDRI)",
+        "region_name": "Africa",
+        "sub_region_name": "Africa"
+    },
+    {
+        "iso": "TWN",
+        "country_name": "Taiwan",
+        "slug": "taiwan",
+        "regional_hub": "East-West Management Institute Inc. (EWMI)",
+        "region_name": "Asia",
+        "sub_region_name": "South and East Asia"
+    },
+    {
+        "iso": "UGA",
+        "country_name": "Uganda",
+        "slug": "uganda",
+        "regional_hub": "Local Development Research Institute (LDRI)",
+        "region_name": "Africa",
+        "sub_region_name": "Africa"
+    },
+    {
+        "iso": "UKR",
+        "country_name": "Ukraine",
+        "slug": "ukraine",
+        "regional_hub": "IDFI Georgia",
+        "region_name": "Europe",
+        "sub_region_name": "Eastern Europe and Central Asia"
+    },
+    {
+        "iso": "URY",
+        "country_name": "Uruguay",
+        "slug": "uruguay",
+        "regional_hub": "ILDA",
+        "region_name": "Americas",
+        "sub_region_name": "Latin America and the Caribbean"
+    },
+    {
+        "iso": "USA",
+        "country_name": "United States of America",
+        "slug": "united-states-of-america",
+        "regional_hub": "Access Info Europe",
+        "region_name": "Americas",
+        "sub_region_name": "European Union, United Kingdom, North America, Israel, Australia and New Zealand"
+    },
+    {
+        "iso": "UZB",
+        "country_name": "Uzbekistan",
+        "slug": "uzbekistan",
+        "regional_hub": "IDFI Georgia",
+        "region_name": "Asia",
+        "sub_region_name": "Eastern Europe and Central Asia"
+    },
+    {
+        "iso": "VNM",
+        "country_name": "Viet Nam",
+        "slug": "viet-nam",
+        "regional_hub": "East-West Management Institute Inc. (EWMI)",
+        "region_name": "Asia",
+        "sub_region_name": "South and East Asia"
+    },
+    {
+        "iso": "XKX",
+        "country_name": "Kosovo",
+        "slug": "kosovo",
+        "regional_hub": "Open Data Kosovo",
+        "region_name": "Europe",
+        "sub_region_name": "Eastern Europe and Central Asia"
+    },
+    {
+        "iso": "ZAF",
+        "country_name": "South Africa",
+        "slug": "south-africa",
+        "regional_hub": "Local Development Research Institute (LDRI)",
+        "region_name": "Africa",
+        "sub_region_name": "Africa"
+    }
+]
